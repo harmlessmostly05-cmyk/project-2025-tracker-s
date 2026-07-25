@@ -1,7 +1,9 @@
 [
   {
     "id": "news-001",
-    "recommendation_ids": ["pers-001"],
+    "recommendation_ids": [
+      "pers-001"
+    ],
     "headline": "Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability",
     "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/",
     "source": "The White House",
@@ -12,7 +14,9 @@
   },
   {
     "id": "news-002",
-    "recommendation_ids": ["pers-001"],
+    "recommendation_ids": [
+      "pers-001"
+    ],
     "headline": "Trump strips job protections from 8,000 federal workers",
     "url": "https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f",
     "source": "NPR",
@@ -23,7 +27,9 @@
   },
   {
     "id": "news-003",
-    "recommendation_ids": ["pers-001"],
+    "recommendation_ids": [
+      "pers-001"
+    ],
     "headline": "Final Schedule F regulations to describe civil service protections as 'unconstitutional overcorrections'",
     "url": "https://www.govexec.com/workforce/2025/11/final-schedule-f-regulations-describe-civil-service-protections-unconstitutional-overcorrections/409616/",
     "source": "Government Executive",
@@ -34,7 +40,9 @@
   },
   {
     "id": "news-004",
-    "recommendation_ids": ["pers-001"],
+    "recommendation_ids": [
+      "pers-001"
+    ],
     "headline": "National Treasury Employees Union v. Trump (Schedule F litigation)",
     "url": "https://clearinghouse.net/case/46319/",
     "source": "Civil Rights Litigation Clearinghouse",
@@ -45,7 +53,9 @@
   },
   {
     "id": "news-005",
-    "recommendation_ids": ["pers-002"],
+    "recommendation_ids": [
+      "pers-002"
+    ],
     "headline": "President Trump Signs Executive Order Seeking to End Disparate Impact Discrimination",
     "url": "https://natlawreview.com/article/president-trump-signs-executive-order-seeking-end-disparate-impact-discrimination",
     "source": "National Law Review",
@@ -56,7 +66,9 @@
   },
   {
     "id": "news-006",
-    "recommendation_ids": ["pers-008"],
+    "recommendation_ids": [
+      "pers-008"
+    ],
     "headline": "Reduction in Force (proposed rule)",
     "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04377/reduction-in-force",
     "source": "Federal Register",
@@ -67,7 +79,9 @@
   },
   {
     "id": "news-007",
-    "recommendation_ids": ["pers-008"],
+    "recommendation_ids": [
+      "pers-008"
+    ],
     "headline": "OPM proposes new layoff rules emphasizing performance and reducing employee protections",
     "url": "https://www.govexec.com/management/2026/03/opm-proposes-new-layoff-rules-emphasizing-performance-and-reducing-employee-protections/411892/",
     "source": "Government Executive",
@@ -78,7 +92,10 @@
   },
   {
     "id": "news-008",
-    "recommendation_ids": ["pers-010", "pers-011"],
+    "recommendation_ids": [
+      "pers-010",
+      "pers-011"
+    ],
     "headline": "Executive Order 14251, Exclusions From Federal Labor-Management Relations Programs",
     "url": "https://www.congress.gov/crs_external_products/LSB/HTML/LSB11367.html",
     "source": "Congressional Research Service (Congress.gov)",
@@ -89,7 +106,9 @@
   },
   {
     "id": "news-009",
-    "recommendation_ids": ["pers-010"],
+    "recommendation_ids": [
+      "pers-010"
+    ],
     "headline": "Appeals court axes injunction on Trump's collective bargaining rollback",
     "url": "https://federalnewsnetwork.com/workforce/2026/02/appeals-courts-axes-injunction-on-trumps-collective-bargaining-rollback/",
     "source": "Federal News Network",
@@ -100,7 +119,9 @@
   },
   {
     "id": "news-010",
-    "recommendation_ids": ["pers-010"],
+    "recommendation_ids": [
+      "pers-010"
+    ],
     "headline": "The Trump Administration Ended Collective Bargaining for 1 Million Federal Workers",
     "url": "https://www.americanprogress.org/article/the-trump-administration-ended-collective-bargaining-for-1-million-federal-workers/",
     "source": "Center for American Progress",
@@ -111,7 +132,9 @@
   },
   {
     "id": "news-011",
-    "recommendation_ids": ["dhs-004"],
+    "recommendation_ids": [
+      "dhs-004"
+    ],
     "headline": "Inside the decision to remove Kristi Noem as DHS secretary",
     "url": "https://www.cbsnews.com/news/decision-to-remove-kristi-noem-dhs-secretary/",
     "source": "CBS News",
@@ -122,7 +145,9 @@
   },
   {
     "id": "news-012",
-    "recommendation_ids": ["dhs-004"],
+    "recommendation_ids": [
+      "dhs-004"
+    ],
     "headline": "Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her",
     "url": "https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired",
     "source": "NPR",
@@ -133,7 +158,9 @@
   },
   {
     "id": "news-013",
-    "recommendation_ids": ["dhs-003"],
+    "recommendation_ids": [
+      "dhs-003"
+    ],
     "headline": "Noem fired from DHS amid agency shutdown, Trump taps Mullin as successor",
     "url": "https://www.govexec.com/management/2026/03/trump-fire-dhs-secretary-noem-selects-mullin-as-successor/411914/",
     "source": "Government Executive",
@@ -144,7 +171,9 @@
   },
   {
     "id": "news-014",
-    "recommendation_ids": ["dhs-005"],
+    "recommendation_ids": [
+      "dhs-005"
+    ],
     "headline": "Judge rejects immigration enforcement condition for FEMA grants",
     "url": "https://rollcall.com/2025/10/14/judge-rejects-immigration-enforcement-condition-for-fema-grants/",
     "source": "Roll Call",
@@ -155,7 +184,9 @@
   },
   {
     "id": "news-015",
-    "recommendation_ids": ["dhs-005"],
+    "recommendation_ids": [
+      "dhs-005"
+    ],
     "headline": "States challenge Trump administration's immigration and election requirements for grants",
     "url": "https://www.courthousenews.com/states-challenge-trump-administrations-immigration-and-election-requirements-for-grants/",
     "source": "Courthouse News Service",
@@ -166,7 +197,9 @@
   },
   {
     "id": "news-016",
-    "recommendation_ids": ["dhs-006"],
+    "recommendation_ids": [
+      "dhs-006"
+    ],
     "headline": "Temporary Increase in H-2B Nonimmigrant Visas for FY 2026",
     "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-2b-non-agricultural-workers/temporary-increase-in-h-2b-nonimmigrant-visas-for-fy-2026",
     "source": "U.S. Citizenship and Immigration Services",
@@ -177,7 +210,9 @@
   },
   {
     "id": "news-017",
-    "recommendation_ids": ["dhs-007"],
+    "recommendation_ids": [
+      "dhs-007"
+    ],
     "headline": "Trump Administration Rescinds Sensitive Locations Policy: What It Means for Institutions of Higher Education",
     "url": "https://www.venable.com/insights/publications/2025/03/trump-administration-rescinds-sensitive-locations",
     "source": "Venable LLP",
@@ -188,7 +223,9 @@
   },
   {
     "id": "news-018",
-    "recommendation_ids": ["dhs-008"],
+    "recommendation_ids": [
+      "dhs-008"
+    ],
     "headline": "ICE documents reveal plans to double immigrant detention space by 2026",
     "url": "https://www.washingtonpost.com/immigration/2025/08/15/ice-documents-reveal-plan-double-immigrant-detention-space-this-year/",
     "source": "The Washington Post",
@@ -199,7 +236,9 @@
   },
   {
     "id": "news-019",
-    "recommendation_ids": ["dhs-008"],
+    "recommendation_ids": [
+      "dhs-008"
+    ],
     "headline": "Budget Bill Massively Increases Funding for Immigration Detention",
     "url": "https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention",
     "source": "Brennan Center for Justice",
@@ -210,7 +249,9 @@
   },
   {
     "id": "news-020",
-    "recommendation_ids": ["dhs-009"],
+    "recommendation_ids": [
+      "dhs-009"
+    ],
     "headline": "Text - S.4546 - ASSIMILATION Act",
     "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4546/text",
     "source": "Congress.gov",
@@ -221,7 +262,9 @@
   },
   {
     "id": "news-021",
-    "recommendation_ids": ["dhs-009"],
+    "recommendation_ids": [
+      "dhs-009"
+    ],
     "headline": "House conservative unveils bill to end chain migration, scrap diversity visa in sweeping immigration overhaul",
     "url": "https://www.foxnews.com/politics/house-conservative-unveils-bill-end-chain-migration-scrap-diversity-visa-sweeping-immigration-overhaul",
     "source": "Fox News",
@@ -232,7 +275,9 @@
   },
   {
     "id": "news-022",
-    "recommendation_ids": ["dhs-010"],
+    "recommendation_ids": [
+      "dhs-010"
+    ],
     "headline": "CISA election, disinformation officials placed on administrative leave, sources say",
     "url": "https://cyberscoop.com/cisa-misinformation-disinformation-administrative-leave/",
     "source": "CyberScoop",
@@ -243,7 +288,9 @@
   },
   {
     "id": "news-023",
-    "recommendation_ids": ["dhs-010"],
+    "recommendation_ids": [
+      "dhs-010"
+    ],
     "headline": "CISA staff focused on disinformation and influence operations put on leave",
     "url": "https://www.defenseone.com/policy/2025/02/cisa-staff-focused-disinformation-and-influence-operations-put-leave/402964/",
     "source": "Defense One",
@@ -254,7 +301,9 @@
   },
   {
     "id": "news-024",
-    "recommendation_ids": ["dhs-011"],
+    "recommendation_ids": [
+      "dhs-011"
+    ],
     "headline": "What Happens If the National Flood Insurance Program (NFIP) Lapses?",
     "url": "https://www.congress.gov/crs-product/IN10835",
     "source": "Congressional Research Service (Congress.gov)",
@@ -265,7 +314,9 @@
   },
   {
     "id": "news-025",
-    "recommendation_ids": ["dhs-013"],
+    "recommendation_ids": [
+      "dhs-013"
+    ],
     "headline": "Secret Service merging electronic and financial crime task forces to combat cybercrime",
     "url": "https://cyberscoop.com/secret-service-reorganization-task-force-cybercrime-financial-crime/",
     "source": "CyberScoop",
@@ -276,7 +327,9 @@
   },
   {
     "id": "news-026",
-    "recommendation_ids": ["dhs-014"],
+    "recommendation_ids": [
+      "dhs-014"
+    ],
     "headline": "Trump's new budget seeks more TSA privatization. Here's what that could mean for airport security screening",
     "url": "https://www.cnn.com/2026/04/04/us/tsa-private-airport-security-screening",
     "source": "CNN",
@@ -287,7 +340,9 @@
   },
   {
     "id": "news-027",
-    "recommendation_ids": ["dhs-014"],
+    "recommendation_ids": [
+      "dhs-014"
+    ],
     "headline": "Airports in Tampa, Des Moines and Charleston opt for TSA privatization screening program",
     "url": "https://www.washingtontimes.com/news/2026/jul/23/airports-tampa-des-moines-charleston-opt-tsa-privatization-screening/",
     "source": "The Washington Times",
@@ -298,7 +353,9 @@
   },
   {
     "id": "news-028",
-    "recommendation_ids": ["dhs-015"],
+    "recommendation_ids": [
+      "dhs-015"
+    ],
     "headline": "DHS plans to shed most of its intel office workforce",
     "url": "https://www.nextgov.com/cybersecurity/2025/07/dhs-plans-shed-most-its-intel-office-workforce/406466/",
     "source": "Nextgov/FCW",
@@ -309,7 +366,10 @@
   },
   {
     "id": "news-029",
-    "recommendation_ids": ["edu-001", "edu-003"],
+    "recommendation_ids": [
+      "edu-001",
+      "edu-003"
+    ],
     "headline": "Trump signs executive order to dismantle Department of Education",
     "url": "https://edsource.org/2025/trump-signs-executive-order-to-dismantle-department-of-education/728843",
     "source": "EdSource",
@@ -320,7 +380,9 @@
   },
   {
     "id": "news-030",
-    "recommendation_ids": ["edu-001"],
+    "recommendation_ids": [
+      "edu-001"
+    ],
     "headline": "Trump signs executive order to dismantle the Department of Education—'See you in court,' teachers' union says",
     "url": "https://www.cnbc.com/2025/03/20/trump-signs-executive-order-to-dismantle-department-of-education.html",
     "source": "CNBC",
@@ -331,7 +393,9 @@
   },
   {
     "id": "news-031",
-    "recommendation_ids": ["edu-003"],
+    "recommendation_ids": [
+      "edu-003"
+    ],
     "headline": "Supreme Court allows Trump to proceed with mass firings at Education Department",
     "url": "https://www.cnn.com/2025/07/14/politics/supreme-court-firings-education",
     "source": "CNN",
@@ -342,7 +406,9 @@
   },
   {
     "id": "news-032",
-    "recommendation_ids": ["edu-003"],
+    "recommendation_ids": [
+      "edu-003"
+    ],
     "headline": "H.R.899 - To terminate the Department of Education",
     "url": "https://www.congress.gov/bill/119th-congress/house-bill/899",
     "source": "Congress.gov",
@@ -353,7 +419,10 @@
   },
   {
     "id": "news-033",
-    "recommendation_ids": ["edu-005", "edu-007"],
+    "recommendation_ids": [
+      "edu-005",
+      "edu-007"
+    ],
     "headline": "Education Department transfers key special ed, civil rights functions",
     "url": "https://www.k12dive.com/news/education-department-transfers-key-special-ed-civil-rights-functions/823022/",
     "source": "K-12 Dive",
@@ -364,7 +433,9 @@
   },
   {
     "id": "news-034",
-    "recommendation_ids": ["edu-005"],
+    "recommendation_ids": [
+      "edu-005"
+    ],
     "headline": "Moving Special Education Out of the Department of Education Risks Students' Rights",
     "url": "https://thearc.org/blog/moving-special-education-and-civil-rights-out-of-education-department-risks-a-patchwork-of-rights-for-students-with-disabilities/",
     "source": "The Arc",
@@ -375,7 +446,9 @@
   },
   {
     "id": "news-035",
-    "recommendation_ids": ["edu-006"],
+    "recommendation_ids": [
+      "edu-006"
+    ],
     "headline": "U.S. Department of the Treasury and U.S. Department of Education Announce Historic Federal Student Assistance Partnership",
     "url": "https://home.treasury.gov/news/press-releases/sb0419",
     "source": "U.S. Department of the Treasury",
@@ -386,7 +459,9 @@
   },
   {
     "id": "news-036",
-    "recommendation_ids": ["edu-008"],
+    "recommendation_ids": [
+      "edu-008"
+    ],
     "headline": "Trump administration scraps Biden-era Title IX rule that added 'gender identity'",
     "url": "https://www.washingtontimes.com/news/2025/jan/31/trump-administration-scraps-biden-era-title-ix-rul/",
     "source": "The Washington Times",
@@ -397,7 +472,9 @@
   },
   {
     "id": "news-037",
-    "recommendation_ids": ["edu-008"],
+    "recommendation_ids": [
+      "edu-008"
+    ],
     "headline": "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements",
     "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-rescinds-illegal-title-ix-resolution-agreements",
     "source": "U.S. Department of Education",
@@ -408,7 +485,9 @@
   },
   {
     "id": "news-038",
-    "recommendation_ids": ["edu-011"],
+    "recommendation_ids": [
+      "edu-011"
+    ],
     "headline": "The Repayment Assistance Plan (RAP) in P.L. 119-21, the FY2025 Reconciliation Law",
     "url": "https://www.congress.gov/crs-product/IF13075",
     "source": "Congressional Research Service (Congress.gov)",
@@ -419,7 +498,9 @@
   },
   {
     "id": "news-039",
-    "recommendation_ids": ["edu-016"],
+    "recommendation_ids": [
+      "edu-016"
+    ],
     "headline": "Key Changes to Federal Student Loans Made in the One Big Beautiful Bill Act",
     "url": "https://sfs.harvard.edu/changes-federal-student-loans",
     "source": "Harvard University Student Financial Services",
@@ -430,7 +511,9 @@
   },
   {
     "id": "news-040",
-    "recommendation_ids": ["edu-016"],
+    "recommendation_ids": [
+      "edu-016"
+    ],
     "headline": "Cities sue over Trump's new Public Service Loan Forgiveness rule",
     "url": "https://www.npr.org/2025/11/03/nx-s1-5591157/trump-pslf-teachers-loan-forgiveness",
     "source": "NPR",
@@ -441,7 +524,9 @@
   },
   {
     "id": "news-041",
-    "recommendation_ids": ["edu-016"],
+    "recommendation_ids": [
+      "edu-016"
+    ],
     "headline": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
     "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
     "source": "CNBC",
@@ -452,7 +537,9 @@
   },
   {
     "id": "news-042",
-    "recommendation_ids": ["edu-017"],
+    "recommendation_ids": [
+      "edu-017"
+    ],
     "headline": "New Executive Order Seeks to Reform Accreditation of Higher Education",
     "url": "https://www.ropesgray.com/en/insights/alerts/2025/04/new-executive-order-seeks-to-reform-accreditation-of-higher-education",
     "source": "Ropes & Gray LLP",
@@ -463,7 +550,9 @@
   },
   {
     "id": "news-043",
-    "recommendation_ids": ["edu-001"],
+    "recommendation_ids": [
+      "edu-001"
+    ],
     "headline": "$900M in Institute of Education Sciences contracts axed",
     "url": "https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed",
     "source": "Inside Higher Ed",
@@ -474,7 +563,11 @@
   },
   {
     "id": "news-044",
-    "recommendation_ids": ["doj-002", "doj-003", "doj-008"],
+    "recommendation_ids": [
+      "doj-002",
+      "doj-003",
+      "doj-008"
+    ],
     "headline": "Executive Order 14147, Ending the Weaponization of the Federal Government",
     "url": "https://www.govinfo.gov/app/details/DCPD-202500114",
     "source": "GovInfo (Compilation of Presidential Documents)",
@@ -485,7 +578,9 @@
   },
   {
     "id": "news-045",
-    "recommendation_ids": ["doj-002"],
+    "recommendation_ids": [
+      "doj-002"
+    ],
     "headline": "Trump DOJ demands list of thousands of FBI agents, others who worked on Jan. 6 and Trump investigations for possible firing",
     "url": "https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/index.html",
     "source": "CNN",
@@ -496,7 +591,9 @@
   },
   {
     "id": "news-046",
-    "recommendation_ids": ["doj-002"],
+    "recommendation_ids": [
+      "doj-002"
+    ],
     "headline": "Former acting FBI director involved in Jan. 6 investigations fired",
     "url": "https://www.nbcnews.com/politics/justice-department/former-acting-fbi-director-involved-jan-6-investigations-fired-rcna223709",
     "source": "NBC News",
@@ -507,7 +604,9 @@
   },
   {
     "id": "news-047",
-    "recommendation_ids": ["doj-006"],
+    "recommendation_ids": [
+      "doj-006"
+    ],
     "headline": "Justice Department Sues Minnesota Over Sanctuary Policies",
     "url": "https://www.justice.gov/opa/pr/justice-department-sues-minnesota-over-sanctuary-policies",
     "source": "U.S. Department of Justice",
@@ -518,7 +617,9 @@
   },
   {
     "id": "news-048",
-    "recommendation_ids": ["doj-006"],
+    "recommendation_ids": [
+      "doj-006"
+    ],
     "headline": "Feds sue cities and states to block sanctuary policies",
     "url": "https://stateline.org/2026/07/17/feds-sue-cities-and-states-to-block-sanctuary-policies/",
     "source": "Stateline",
@@ -529,7 +630,9 @@
   },
   {
     "id": "news-049",
-    "recommendation_ids": ["doj-007"],
+    "recommendation_ids": [
+      "doj-007"
+    ],
     "headline": "A Refocused China Initiative: DOJ's New White Collar Enforcement Strategy",
     "url": "https://www.bakerlaw.com/insights/a-refocused-china-initiative-dojs-new-white-collar-enforcement-strategy/",
     "source": "BakerHostetler",
@@ -540,7 +643,9 @@
   },
   {
     "id": "news-050",
-    "recommendation_ids": ["doj-007"],
+    "recommendation_ids": [
+      "doj-007"
+    ],
     "headline": "DOJ Revives China Initiative Tactics: Investigating Academic Researchers by Targeting Universities Under the False Claims Act",
     "url": "https://www.wilmerhale.com/en/insights/client-alerts/20251113-doj-revives-china-initiative-tactics-investigating-academic-researchers-by-targeting-universities-under-the-false-claims-act",
     "source": "WilmerHale",
@@ -551,7 +656,9 @@
   },
   {
     "id": "news-051",
-    "recommendation_ids": ["doj-009"],
+    "recommendation_ids": [
+      "doj-009"
+    ],
     "headline": "Supreme Court cements Trump's power over agencies long considered independent",
     "url": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor",
     "source": "NPR",
@@ -562,7 +669,9 @@
   },
   {
     "id": "news-052",
-    "recommendation_ids": ["doj-009"],
+    "recommendation_ids": [
+      "doj-009"
+    ],
     "headline": "The End of the Independent Agency: Supreme Court Overrules Humphrey's Executor",
     "url": "https://www.sidley.com/en/insights/newsupdates/2026/06/the-end-of-the-independent-agency-supreme-court-overrules-humphreys-executor",
     "source": "Sidley Austin LLP",
@@ -573,7 +682,9 @@
   },
   {
     "id": "news-053",
-    "recommendation_ids": ["doj-010"],
+    "recommendation_ids": [
+      "doj-010"
+    ],
     "headline": "DOJ's Dhillon Tests Supreme Court Precedent in Admissions Probes",
     "url": "https://news.bloomberglaw.com/us-law-week/dojs-dhillon-tests-supreme-court-precedent-in-admissions-probes",
     "source": "Bloomberg Law",
@@ -584,7 +695,9 @@
   },
   {
     "id": "news-054",
-    "recommendation_ids": ["doj-010"],
+    "recommendation_ids": [
+      "doj-010"
+    ],
     "headline": "Statement of Harmeet K. Dhillon, Assistant Attorney General, before the Senate Judiciary Committee",
     "url": "https://www.judiciary.senate.gov/imo/media/doc/010c1e92-01be-74a7-c810-f5cb3b398aa5/2025-07-23%20-%20Testimony%20-%20Dhillon.pdf",
     "source": "U.S. Senate Judiciary Committee",
@@ -595,7 +708,9 @@
   },
   {
     "id": "news-055",
-    "recommendation_ids": ["doj-011"],
+    "recommendation_ids": [
+      "doj-011"
+    ],
     "headline": "The Comstock Act: Implications for Abortion Care Nationwide",
     "url": "https://www.kff.org/womens-health-policy/the-comstock-act-implications-for-abortion-care-nationwide/",
     "source": "KFF (Kaiser Family Foundation)",
@@ -606,7 +721,9 @@
   },
   {
     "id": "news-056",
-    "recommendation_ids": ["doj-016"],
+    "recommendation_ids": [
+      "doj-016"
+    ],
     "headline": "DOJ conditions grant funds on compliance with 8 U.S.C. § 1373",
     "url": "https://immpolicytracking.org/policies/doj-conditions-grant-funds-on-certification-of-compliance-with-8-usc-1373/",
     "source": "Immigration Policy Tracking Project",
@@ -614,5 +731,1583 @@
     "summary": "The Attorney General issued a February 5, 2025 memo directing DOJ to condition federal grant funding on jurisdictions' compliance with federal immigration information-sharing law, cutting off funds to jurisdictions found in violation, consistent with the Mandate for Leadership's recommendation to overhaul DOJ grant vetting around immigration compliance.",
     "credibility": "Medium",
     "credibility_rationale": "nonpartisan academic policy-tracking project"
+  },
+  {
+    "id": "news-100",
+    "recommendation_ids": [
+      "aid-001",
+      "aid-003"
+    ],
+    "headline": "Rubio says Trump administration canceling 83% of programs at USAID",
+    "url": "https://www.cnn.com/2025/03/10/politics/rubio-usaid-contracts-state-department/index.html",
+    "source": "CNN",
+    "date": "2025-03-10",
+    "summary": "Secretary of State Marco Rubio announced the administration had canceled roughly 83% of USAID's programs, with remaining functions to be absorbed by the State Department.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards, direct quotes from a named official."
+  },
+  {
+    "id": "news-101",
+    "recommendation_ids": [
+      "sta-016",
+      "aid-002"
+    ],
+    "headline": "USAID officially shuts down and merges remaining operations with State Department",
+    "url": "https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department",
+    "source": "NPR",
+    "date": "2025-07-01",
+    "summary": "USAID ceased implementing foreign assistance as of July 1, 2025, with its remaining functions folded into the State Department under Secretary Rubio rather than a separately dual-hatted USAID Administrator.",
+    "credibility": "Medium",
+    "credibility_rationale": "NPR is a major outlet with editorial standards."
+  },
+  {
+    "id": "news-102",
+    "recommendation_ids": [
+      "med-007",
+      "med-009"
+    ],
+    "headline": "Voice of America staff put on leave after Trump orders cuts",
+    "url": "https://www.cnbc.com/2025/03/15/trump-signs-order-to-gut-voice-of-america-other-agencies.html",
+    "source": "CNBC",
+    "date": "2025-03-15",
+    "summary": "Trump signed an executive order directing USAGM to reduce operations to the statutory minimum, resulting in VOA staff being placed on administrative leave and funding halted for RFE/RL and Radio Free Asia.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major business outlet with editorial standards."
+  },
+  {
+    "id": "news-103",
+    "recommendation_ids": [
+      "med-009",
+      "med-007"
+    ],
+    "headline": "US judge blocks Trump's shutdown of government-funded news broadcasts",
+    "url": "https://www.marketscreener.com/news/latest/US-judge-blocks-Trump-s-shutdown-of-government-funded-news-broadcasts-49679994/",
+    "source": "MarketScreener (AFP wire)",
+    "date": "2025-03-28",
+    "summary": "A federal judge granted a temporary restraining order blocking the administration's attempt to dismantle USAGM and ordered roughly 1,300 VOA employees reinstated from administrative leave.",
+    "credibility": "Medium",
+    "credibility_rationale": "Wire-service-sourced report of a court order."
+  },
+  {
+    "id": "news-104",
+    "recommendation_ids": [
+      "med-010",
+      "med-011"
+    ],
+    "headline": "Congress rolls back $9 billion in public media funding and foreign aid",
+    "url": "https://www.npr.org/2025/07/18/nx-s1-5469912/npr-congress-rescission-funding-trump",
+    "source": "NPR",
+    "date": "2025-07-18",
+    "summary": "The House approved a Trump-requested rescissions package clawing back roughly $1.1 billion in previously appropriated Corporation for Public Broadcasting funding through FY2027.",
+    "credibility": "Medium",
+    "credibility_rationale": "NPR is a major outlet, though it is a direct subject of the funding cut it is reporting on."
+  },
+  {
+    "id": "news-105",
+    "recommendation_ids": [
+      "med-010",
+      "med-011",
+      "med-009"
+    ],
+    "headline": "Corporation for Public Broadcasting will shut down after Trump funding cuts",
+    "url": "https://www.cnn.com/2025/08/01/media/trump-cpb-corporation-public-media-shuts-down",
+    "source": "CNN",
+    "date": "2025-08-01",
+    "summary": "CPB announced it is winding down operations for the first time in its 58-year history after Trump signed the rescissions package eliminating its federal funding.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-106",
+    "recommendation_ids": [
+      "who-006",
+      "aid-014"
+    ],
+    "headline": "Trump reinstates Schedule F in the Excepted Service",
+    "url": "https://www.lawfaremedia.org/article/trump-reinstates-schedule-f-in-the-excepted-service",
+    "source": "Lawfare",
+    "date": "2025-01-20",
+    "summary": "On his first day in office, Trump reinstated EO 13957 (rebranded Schedule Policy/Career), stripping civil-service protections from career employees in policy-influencing roles.",
+    "credibility": "Medium",
+    "credibility_rationale": "Legal-affairs publication with editorial standards, analyzing the executive order text."
+  },
+  {
+    "id": "news-107",
+    "recommendation_ids": [
+      "who-006"
+    ],
+    "headline": "EO 13957 reinstated with amendments; Biden's EO 14003 rescinded",
+    "url": "https://www.congress.gov/crs_external_products/LSB/HTML/LSB11262.web.html",
+    "source": "Congressional Research Service",
+    "date": "2025-02-01",
+    "summary": "CRS legal analysis confirms the January 20, 2025 executive order reinstated Schedule F with amendments and that OPM later finalized an implementing regulation.",
+    "credibility": "High",
+    "credibility_rationale": "Official nonpartisan congressional research product."
+  },
+  {
+    "id": "news-108",
+    "recommendation_ids": [
+      "dod-008",
+      "dod-011"
+    ],
+    "headline": "Pentagon says transgender troops will be removed from U.S. military",
+    "url": "https://www.washingtonpost.com/national-security/2025/02/27/transgender-ban-us-service-members-military-pentagon/",
+    "source": "Washington Post",
+    "date": "2025-02-27",
+    "summary": "The Pentagon issued a policy stating servicemembers diagnosed with or exhibiting symptoms of gender dysphoria will be processed for separation, going further than the first-term ban.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major national outlet with editorial standards."
+  },
+  {
+    "id": "news-109",
+    "recommendation_ids": [
+      "dod-008",
+      "dod-011"
+    ],
+    "headline": "Federal judge blocks Trump effort to ban transgender troops from military service",
+    "url": "https://www.npr.org/2025/03/18/nx-s1-5332409/transgender-troops-ban-preliminary-injunction",
+    "source": "NPR",
+    "date": "2025-03-18",
+    "summary": "A federal judge issued a preliminary injunction against the transgender military ban; an appeals court later allowed the Pentagon to temporarily enforce it while litigation continued.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards reporting on court filings."
+  },
+  {
+    "id": "news-110",
+    "recommendation_ids": [
+      "dod-010"
+    ],
+    "headline": "There's no more DEI at DOD, watchdog finds",
+    "url": "https://www.defenseone.com/policy/2025/04/theres-no-more-dei-dod-watchdog-finds/404669/",
+    "source": "Defense One",
+    "date": "2025-04-18",
+    "summary": "A government watchdog report found the Pentagon's DEI positions and offices had been eliminated following Secretary Hegseth's January 2025 directive to terminate all DEI programs.",
+    "credibility": "Medium",
+    "credibility_rationale": "Defense trade press with editorial standards."
+  },
+  {
+    "id": "news-111",
+    "recommendation_ids": [
+      "dod-010"
+    ],
+    "headline": "Task Force Validates Successful DEI Elimination Throughout DOD",
+    "url": "https://www.war.gov/News/News-Stories/Article/Article/4195514/task-force-validates-successful-dei-elimination-throughout-dod/",
+    "source": "U.S. Department of War (DOD)",
+    "date": "2025-05-22",
+    "summary": "The Pentagon announced its internal task force had completed elimination of DEI offices, positions, and programs across the department.",
+    "credibility": "High",
+    "credibility_rationale": "Official government agency announcement."
+  },
+  {
+    "id": "news-112",
+    "recommendation_ids": [
+      "dod-009"
+    ],
+    "headline": "After Offer of Back Pay, Only 13 COVID Vaccine Refusers Returned to Military Service",
+    "url": "https://www.military.com/daily-news/2025/06/30/after-offer-of-back-pay-only-13-covid-vaccine-refusers-returned-military-service.html",
+    "source": "Military.com",
+    "date": "2025-06-30",
+    "summary": "The Pentagon implemented Trump's order to reinstate servicemembers discharged for COVID-19 vaccine refusal with back pay, but uptake was very low in the initial months.",
+    "credibility": "Medium",
+    "credibility_rationale": "Established military-focused trade press."
+  },
+  {
+    "id": "news-113",
+    "recommendation_ids": [
+      "dod-009"
+    ],
+    "headline": "Pentagon welcomes back troops discharged over COVID-19 vaccine, offers back pay",
+    "url": "https://federalnewsnetwork.com/defense-main/2025/04/pentagon-welcomes-back-troops-discharged-over-covid-19-vaccine-offers-back-pay/",
+    "source": "Federal News Network",
+    "date": "2025-04-08",
+    "summary": "The Pentagon detailed a back-pay reinstatement policy for troops discharged over COVID-19 vaccine refusal, tied to a new four-year service commitment.",
+    "credibility": "Medium",
+    "credibility_rationale": "Federal-focused trade press with editorial standards."
+  },
+  {
+    "id": "news-114",
+    "recommendation_ids": [
+      "eop-001",
+      "eop-002",
+      "who-005"
+    ],
+    "headline": "Russ Vought, champion of Schedule F and slashing agency budgets, wins confirmation to OMB",
+    "url": "https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/",
+    "source": "Government Executive",
+    "date": "2025-02-06",
+    "summary": "The Senate confirmed Russ Vought, a Project 2025 author, as OMB Director; he has pushed to keep apportionment sign-off with political appointees rather than career staff.",
+    "credibility": "Medium",
+    "credibility_rationale": "Federal management trade press with editorial standards."
+  },
+  {
+    "id": "news-115",
+    "recommendation_ids": [
+      "eop-001"
+    ],
+    "headline": "Trump's shutdown architect: Russ Vought's plan to deconstruct the government",
+    "url": "https://www.cnn.com/2025/10/02/politics/russ-vought-shutdown-architect",
+    "source": "CNN",
+    "date": "2025-10-02",
+    "summary": "Reporting describes how OMB Director Vought has used apportionment authority to centralize political control over federal spending decisions across agencies.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-116",
+    "recommendation_ids": [
+      "sta-008"
+    ],
+    "headline": "Trump Restores 'Remain in Mexico' Policy for Asylum Seekers",
+    "url": "https://news.bgov.com/bloomberg-government-news/trump-reinstates-remain-in-mexico-policy-for-asylum-seekers-1",
+    "source": "Bloomberg Government",
+    "date": "2025-01-21",
+    "summary": "DHS formally restored the Migrant Protection Protocols ('Remain in Mexico'), requiring non-Mexican asylum seekers to wait in Mexico while their claims are processed.",
+    "credibility": "High",
+    "credibility_rationale": "Bloomberg wire-service reporting on official DHS action."
+  },
+  {
+    "id": "news-117",
+    "recommendation_ids": [
+      "sta-008"
+    ],
+    "headline": "Trump admin asks Ninth Circuit to lift stay on 'Remain in Mexico' policy",
+    "url": "https://www.courthousenews.com/trump-admin-asks-ninth-circuit-to-lift-stay-on-remain-in-mexico-policy/",
+    "source": "Courthouse News Service",
+    "date": "2025-02-10",
+    "summary": "A federal court stayed reimplementation of the Remain in Mexico policy in parts of the Ninth Circuit, prompting the administration to seek relief from the stay.",
+    "credibility": "Medium",
+    "credibility_rationale": "Legal-affairs trade press with editorial standards."
+  },
+  {
+    "id": "news-118",
+    "recommendation_ids": [
+      "sta-007"
+    ],
+    "headline": "Realigning the United States Refugee Admissions Program",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/",
+    "source": "The White House",
+    "date": "2025-01-20",
+    "summary": "Executive Order 14163 suspended entry of refugees under USRAP effective January 27, 2025, indefinitely halting the program pending review.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House presidential action document."
+  },
+  {
+    "id": "news-119",
+    "recommendation_ids": [
+      "aid-007",
+      "sta-014"
+    ],
+    "headline": "Trump admin to expand foreign aid abortion ban to gender identity and DEI programming",
+    "url": "https://www.axios.com/2026/01/23/trump-vance-mexico-city-abortion-foreign-aid",
+    "source": "Axios",
+    "date": "2026-01-23",
+    "summary": "The administration announced the most significant expansion of the Mexico City Policy in its 40-year history, extending abortion-related foreign aid restrictions to cover gender-identity and DEI programming.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-120",
+    "recommendation_ids": [
+      "aid-007",
+      "sta-014"
+    ],
+    "headline": "Protecting Life in Foreign Assistance",
+    "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01519/protecting-life-in-foreign-assistance",
+    "source": "Federal Register",
+    "date": "2026-01-27",
+    "summary": "State Department final rules formally expanded the Mexico City Policy across nearly all nonmilitary foreign assistance, effective February 26, 2026.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal regulatory filing."
+  },
+  {
+    "id": "news-121",
+    "recommendation_ids": [
+      "ene-001"
+    ],
+    "headline": "IRA Tax Credit Repeal in the FY2025 Reconciliation Law",
+    "url": "https://www.congress.gov/crs-product/IN12625",
+    "source": "Congressional Research Service",
+    "date": "2025-07-04",
+    "summary": "The One Big Beautiful Bill Act, signed July 4, 2025, repealed or accelerated the phaseout of roughly 60% of Inflation Reduction Act clean-energy tax credits, though it did not repeal the IIJA or IRA in full.",
+    "credibility": "High",
+    "credibility_rationale": "Official nonpartisan congressional research product."
+  },
+  {
+    "id": "news-122",
+    "recommendation_ids": [
+      "ene-004"
+    ],
+    "headline": "U.S. Department of Energy Reverses Biden LNG Pause, Restores Trump Energy Dominance Agenda",
+    "url": "https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-restores-trump-energy-dominance-agenda",
+    "source": "U.S. Department of Energy",
+    "date": "2025-02-05",
+    "summary": "DOE resumed consideration of pending LNG export applications to non-free-trade-agreement countries, directed by EO 14154's mandate to eliminate climate-related review criteria.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal agency announcement."
+  },
+  {
+    "id": "news-123",
+    "recommendation_ids": [
+      "ene-009"
+    ],
+    "headline": "The end of DOE as we know it",
+    "url": "https://www.latitudemedia.com/news/the-end-of-doe-as-we-know-it/",
+    "source": "Latitude Media",
+    "date": "2025-08-15",
+    "summary": "DOE rebranded its Loan Programs Office as the Office of Energy Dominance Financing, canceling roughly $30 billion in Biden-era clean energy loans and revising billions more.",
+    "credibility": "Medium",
+    "credibility_rationale": "Specialized energy trade press with editorial standards."
+  },
+  {
+    "id": "news-124",
+    "recommendation_ids": [
+      "eop-013"
+    ],
+    "headline": "CEQ Fixes Decades-Long Permitting Failure Through Deregulation",
+    "url": "https://www.whitehouse.gov/releases/2026/01/ceq-fixes-decades-long-permitting-failure-through-deregulation",
+    "source": "The White House / CEQ",
+    "date": "2026-01-08",
+    "summary": "CEQ finalized removal of its NEPA implementing regulations from the Code of Federal Regulations after an interim final rule took effect in April 2025, shifting NEPA compliance guidance to individual agencies.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House/agency release."
+  },
+  {
+    "id": "news-125",
+    "recommendation_ids": [
+      "agr-009"
+    ],
+    "headline": "SNAP Work Requirements",
+    "url": "https://www.fna.usda.gov/snap/work-requirements",
+    "source": "USDA Food and Nutrition Service",
+    "date": "2025-11-01",
+    "summary": "USDA implemented expanded SNAP able-bodied adult work requirements under the One Big Beautiful Bill Act, raising the age ceiling to 64 and narrowing exemptions, effective November 1, 2025.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal agency program page."
+  },
+  {
+    "id": "news-126",
+    "recommendation_ids": [
+      "agr-009",
+      "agr-011"
+    ],
+    "headline": "Millions lose SNAP food benefits due to Trump 'big beautiful bill'",
+    "url": "https://www.cnbc.com/2026/05/30/snap-food-stamps-big-beautiful-bill.html",
+    "source": "CNBC",
+    "date": "2026-05-30",
+    "summary": "Reporting found SNAP enrollment dropped by roughly 4.2 million people between January 2025 and January 2026 following expanded work requirements and other OBBBA eligibility changes.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major business outlet with editorial standards."
+  },
+  {
+    "id": "news-127",
+    "recommendation_ids": [
+      "agr-011"
+    ],
+    "headline": "4 Million Fewer on SNAP Benefits After Trump Rule Changes",
+    "url": "https://www.newsweek.com/4-million-fewer-snap-benefits-trump-rule-changes-11881316",
+    "source": "Newsweek",
+    "date": "2026-06-01",
+    "summary": "The One Big Beautiful Bill Act bars USDA from reevaluating the Thrifty Food Plan until at least October 2027 and caps future cost increases to inflation, reversing the 2021 benefit expansion's trajectory.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major national outlet with editorial standards."
+  },
+  {
+    "id": "news-128",
+    "recommendation_ids": [
+      "eop-016"
+    ],
+    "headline": "Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+    "source": "The White House",
+    "date": "2025-01-20",
+    "summary": "The executive order revoked EO 14020 and dissolved the White House Gender Policy Council on Trump's first day in office.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House presidential action document."
+  },
+  {
+    "id": "news-129",
+    "recommendation_ids": [
+      "eop-015"
+    ],
+    "headline": "Social Cost of Greenhouse Gases: Background and Recent Developments",
+    "url": "https://www.congress.gov/crs-product/IF12916",
+    "source": "Congressional Research Service",
+    "date": "2025-02-15",
+    "summary": "Executive Order 14154 disbanded the Interagency Working Group on the Social Cost of Carbon and ended its use as uniform federal policy for regulatory and permitting decisions.",
+    "credibility": "High",
+    "credibility_rationale": "Official nonpartisan congressional research product."
+  },
+  {
+    "id": "news-130",
+    "recommendation_ids": [
+      "sta-015",
+      "sta-001"
+    ],
+    "headline": "Rubio announces 'reorganization' of State Department to cut 'bloated' bureaucracy",
+    "url": "https://www.cbsnews.com/news/marco-rubio-state-department-reorganization-bureacracy-closing-offices/",
+    "source": "CBS News",
+    "date": "2025-04-22",
+    "summary": "Secretary Rubio unveiled a reorganization plan cutting the State Department's domestic offices from 734 to 602 in what officials called the largest restructuring since the Cold War.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-131",
+    "recommendation_ids": [
+      "sta-015"
+    ],
+    "headline": "Rubio spearheads massive State Dept reorganization set to eliminate, merge more than 300 offices",
+    "url": "https://www.foxnews.com/politics/rubio-spearheads-massive-state-dept-reorganization-set-eliminate-merge-more-than-300-offices.amp",
+    "source": "Fox News",
+    "date": "2025-04-22",
+    "summary": "More than 300 State Department offices and bureaus are set to be eliminated or merged, with roughly 3,400 U.S.-based positions affected, under the reorganization plan.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-132",
+    "recommendation_ids": [
+      "int-004",
+      "int-005"
+    ],
+    "headline": "NSA, CIA and other spy agencies set to shrink workforce under Trump administration plan",
+    "url": "https://www.washingtontimes.com/news/2025/may/3/nsa-cia-spy-agencies-set-shrink-workforce-trump-administration-plan/",
+    "source": "Washington Times",
+    "date": "2025-05-03",
+    "summary": "CIA Director Ratcliffe froze hiring for conditionally offered jobs and the agency offered buyouts to its entire workforce as part of a broader downsizing effort.",
+    "credibility": "Medium",
+    "credibility_rationale": "Established national outlet with editorial standards."
+  },
+  {
+    "id": "news-133",
+    "recommendation_ids": [
+      "int-004"
+    ],
+    "headline": "Michael Ellis Sworn In as CIA Deputy Director",
+    "url": "https://www.cia.gov/stories/story/michael-ellis-sworn-in-as-cia-deputy-director",
+    "source": "Central Intelligence Agency",
+    "date": "2025-02-11",
+    "summary": "Michael Ellis, who does not require Senate confirmation, was sworn in as CIA Deputy Director early in the administration to begin implementing agency changes.",
+    "credibility": "High",
+    "credibility_rationale": "Official government agency announcement."
+  },
+  {
+    "id": "news-134",
+    "recommendation_ids": [
+      "sta-011"
+    ],
+    "headline": "President Trump Reimposes 'Maximum Pressure' on Iran",
+    "url": "https://iranprimer.usip.org/blog/2025/feb/05/president-trump-reimposes-%E2%80%9Cmaximum-pressure%E2%80%9D-iran",
+    "source": "United States Institute of Peace (Iran Primer)",
+    "date": "2025-02-05",
+    "summary": "National Security Presidential Memorandum 2 reinstated and expanded the first-term maximum-pressure sanctions campaign aimed at driving Iranian oil exports to zero.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan federally chartered institute publication with editorial review."
+  },
+  {
+    "id": "news-135",
+    "recommendation_ids": [
+      "who-007",
+      "eop-008",
+      "eop-009"
+    ],
+    "headline": "White House slashing staff in major overhaul of National Security Council",
+    "url": "https://www.npr.org/2025/05/24/nx-s1-5409628/trump-dismisses-dozens-of-national-security-council-staff-in-major-shakeup",
+    "source": "NPR",
+    "date": "2025-05-24",
+    "summary": "The NSC staff was cut by roughly half of its approximately 350-person workforce as part of a restructuring that shifted responsibilities to the State and Defense departments.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-136",
+    "recommendation_ids": [
+      "aid-005",
+      "aid-006"
+    ],
+    "headline": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
+    "source": "The White House",
+    "date": "2025-01-20",
+    "summary": "The government-wide DEI executive order eliminated Chief Diversity Officer positions and related programming across agencies, including at USAID before its dissolution.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House presidential action document."
+  },
+  {
+    "id": "news-137",
+    "recommendation_ids": [
+      "dod-012"
+    ],
+    "headline": "All Security Clearances Officially Move to DOD",
+    "url": "https://www.fedmanager.com/news/all-security-clearances-officially-move-to-dod",
+    "source": "FEDmanager",
+    "date": "2025-04-24",
+    "summary": "An April 2025 executive order transferred all federal background investigations, including the roughly 30% previously handled by OPM, to the Defense Department — the opposite direction from returning civilian vetting to OPM.",
+    "credibility": "Medium",
+    "credibility_rationale": "Federal workforce trade publication."
+  },
+  {
+    "id": "news-138",
+    "recommendation_ids": [
+      "eop-004"
+    ],
+    "headline": "Independent agencies targeted by Trump's latest executive order",
+    "url": "https://www.govexec.com/oversight/2025/02/independent-agencies-targeted-trumps-latest-executive-order/403121/",
+    "source": "Government Executive",
+    "date": "2025-02-19",
+    "summary": "Executive Order 'Ensuring Accountability for All Agencies' requires independent regulatory agencies like the FTC, FCC, and SEC to submit significant rules to OIRA for review, ending their traditional exemption.",
+    "credibility": "Medium",
+    "credibility_rationale": "Federal management trade press with editorial standards."
+  },
+  {
+    "id": "news-139",
+    "recommendation_ids": [
+      "eop-007"
+    ],
+    "headline": "Trump overturned two Biden rules, Congress set to clear more for repeal",
+    "url": "https://www.govexec.com/management/2025/03/trump-overturned-two-biden-rules-congress-set-clear-more-repeal/403821/",
+    "source": "Government Executive",
+    "date": "2025-03-01",
+    "summary": "Congress used the Congressional Review Act to begin repealing Biden-era 'midnight' rules; by December 2025 Trump had signed 22 CRA joint resolutions of disapproval.",
+    "credibility": "Medium",
+    "credibility_rationale": "Federal management trade press with editorial standards."
+  },
+  {
+    "id": "news-140",
+    "recommendation_ids": [
+      "ene-008"
+    ],
+    "headline": "Trump rolls back Biden-era efficiency rules",
+    "url": "https://www.utilitydive.com/news/trump-rolls-back-biden-era-efficiency-rules/747749/",
+    "source": "Utility Dive",
+    "date": "2025-05-12",
+    "summary": "DOE postponed, withdrew, and used the Congressional Review Act to roll back numerous Biden-era appliance efficiency standards, though a full statutory repeal of the underlying law has not been enacted.",
+    "credibility": "Medium",
+    "credibility_rationale": "Specialized energy-sector trade press with editorial standards."
+  },
+  {
+    "id": "news-141",
+    "recommendation_ids": [
+      "sta-012"
+    ],
+    "headline": "Washington Policy Weekly: Trump Holds Aid to Palestinian Authority Security Forces",
+    "url": "https://arabcenterdc.org/resource/washington-policy-weekly-trump-holds-aid-to-palestinian-authority-security-forces/",
+    "source": "Arab Center Washington DC",
+    "date": "2025-02-15",
+    "summary": "The administration froze security assistance to the Palestinian Authority as part of a broader foreign-aid pause, even as it separately explored boosting ties with the PA to advance a Gaza plan and Abraham Accords expansion.",
+    "credibility": "Low",
+    "credibility_rationale": "Regional policy institute with an advocacy orientation rather than a wire or mainstream news outlet."
+  },
+  {
+    "id": "news-142",
+    "recommendation_ids": [
+      "dod-016"
+    ],
+    "headline": "Defense Secretary Pete Hegseth orders a halt to offensive cyber operations against Russia",
+    "url": "https://www.nbcnews.com/politics/trump-administration/defense-secretary-pete-hegseth-orders-halt-offensive-cyber-operations-rcna194435",
+    "source": "NBC News",
+    "date": "2025-03-04",
+    "summary": "Hegseth ordered U.S. Cyber Command to halt certain offensive and information operations against Russia; the Pentagon later disputed characterizations of a broad stand-down.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-143",
+    "recommendation_ids": [
+      "dod-016"
+    ],
+    "headline": "Secret US cyber operations shielded 2024 election from foreign trolls, but now the Trump admin has gutted protections",
+    "url": "https://www.cnn.com/2026/01/28/politics/hacking-disinformation-election-security",
+    "source": "CNN",
+    "date": "2026-01-28",
+    "summary": "As of early 2026 there was no public indication the joint NSA-Cyber Command Election Security Group had been activated for the midterms, following the administration's cuts to election-security coordination.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-144",
+    "recommendation_ids": [
+      "dod-015"
+    ],
+    "headline": "U.S. Space Force general to lead Trump's $175 billion Golden Dome space defense program",
+    "url": "https://www.space.com/space-exploration/satellites/u-s-space-force-general-selected-to-lead-trumps-usd175-billion-golden-dome-space-defense-program",
+    "source": "Space.com",
+    "date": "2025-05-01",
+    "summary": "Trump's Golden Dome missile-defense executive order launched a Space Force-led program including space-based interceptors, moving the service toward offensive/active space-control capabilities.",
+    "credibility": "Medium",
+    "credibility_rationale": "Specialized space-industry trade press with editorial standards."
+  },
+  {
+    "id": "news-145",
+    "recommendation_ids": [
+      "dod-014"
+    ],
+    "headline": "New White House Executive Order Sets Stage for U.S. Shipbuilding Action Plan",
+    "url": "https://news.usni.org/2025/04/10/new-white-house-executive-order-sets-stage-for-u-s-shipbuilding-action-plan",
+    "source": "USNI News",
+    "date": "2025-04-10",
+    "summary": "Executive Order 14269, 'Restoring America's Maritime Dominance,' directed a Maritime Action Plan to expand Navy shipbuilding capacity, though current Navy goals now cite 381 ships rather than 355.",
+    "credibility": "Medium",
+    "credibility_rationale": "Established naval-affairs trade press with editorial standards."
+  },
+  {
+    "id": "news-146",
+    "recommendation_ids": [
+      "int-008"
+    ],
+    "headline": "Trump revokes security clearances of 51 intel officials who signed discredited Hunter Biden laptop letter",
+    "url": "https://www.foxnews.com/politics/trump-revokes-security-clearances-51-intel-officials-signed-discredited-hunter-biden-laptop-letter",
+    "source": "Fox News",
+    "date": "2025-01-20",
+    "summary": "On his first day in office, Trump revoked the security clearances of 51 former intelligence officials, including former CIA and DNI directors, who signed the 2020 Hunter Biden laptop letter.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-147",
+    "recommendation_ids": [
+      "int-008"
+    ],
+    "headline": "'Politicizing intelligence': Trump admin revokes security clearances of 37 U.S. officials",
+    "url": "https://www.axios.com/2025/08/20/gabbard-revokes-security-clearances-officials",
+    "source": "Axios",
+    "date": "2025-08-20",
+    "summary": "DNI Gabbard rescinded clearances of 37 additional current and former national security officials, expanding the administration's use of clearance revocation against perceived critics.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-148",
+    "recommendation_ids": [
+      "agr-004"
+    ],
+    "headline": "H.R.1 — An Act to provide for reconciliation (sugar program updates)",
+    "url": "https://www.congress.gov/index.php/bill/119th-congress/house-bill/1/text",
+    "source": "Congress.gov",
+    "date": "2025-07-04",
+    "summary": "Rather than repealing the federal sugar program, the 2025 reconciliation law set new loan rates for raw cane sugar through the 2031 crop year, extending rather than eliminating the program.",
+    "credibility": "High",
+    "credibility_rationale": "Official legislative text from the Library of Congress."
+  },
+  {
+    "id": "news-149",
+    "recommendation_ids": [
+      "med-009",
+      "med-002"
+    ],
+    "headline": "Congress to continue funding Voice of America, despite Trump's wishes",
+    "url": "https://thedesk.net/2026/01/congress-proposes-voice-of-america-funding-2026/",
+    "source": "The Desk",
+    "date": "2026-01-15",
+    "summary": "A bipartisan FY2026 appropriations bill allocated roughly $650 million to USAGM, well above the roughly $150 million the administration had requested, rejecting the push to defund or disestablish the agency.",
+    "credibility": "Medium",
+    "credibility_rationale": "Specialized broadcast-industry trade press reporting on legislative text."
+  },
+  {
+    "id": "news-150",
+    "recommendation_ids": [
+      "med-009",
+      "med-007"
+    ],
+    "headline": "Judge says Kari Lake unlawfully ran USAGM, voids Voice of America layoffs",
+    "url": "https://www.cnn.com/2026/03/07/media/kari-lake-voice-america-usagm-judge-trump",
+    "source": "CNN",
+    "date": "2026-03-07",
+    "summary": "A federal judge ruled that Kari Lake's leadership of USAGM was unlawful and voided VOA layoffs conducted under a deferred-resignation program, a further legal setback for the administration's effort to shrink the agency.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-151",
+    "recommendation_ids": [
+      "eop-012"
+    ],
+    "headline": "Trump Administration Deals Potentially Fatal Blow to National Climate Assessment",
+    "url": "https://climate.law.columbia.edu/content/trump-administration-deals-potentially-fatal-blow-national-climate-assessment",
+    "source": "Columbia Law School Climate Change Law Sabin Center",
+    "date": "2025-04-30",
+    "summary": "The administration cut funding for the U.S. Global Change Research Program and dismissed roughly 400 scientists working on the Sixth National Climate Assessment in April 2025.",
+    "credibility": "Medium",
+    "credibility_rationale": "Academic legal research center with editorial review, though focused on climate-law advocacy topics."
+  },
+  {
+    "id": "news-152",
+    "recommendation_ids": [
+      "eop-012"
+    ],
+    "headline": "U.S. Global Change Research Program (USGCRP): Overview and Considerations for Congress",
+    "url": "https://www.congress.gov/crs-product/R48478",
+    "source": "Congressional Research Service",
+    "date": "2025-04-01",
+    "summary": "CRS confirmed NCA6 authors were dismissed and program funding cut in 2025, with the statutory 2027 assessment deadline now uncertain, rather than being addressed via a dedicated restructuring executive order.",
+    "credibility": "High",
+    "credibility_rationale": "Official nonpartisan congressional research product."
+  },
+  {
+    "id": "news-200",
+    "recommendation_ids": [
+      "epa-005"
+    ],
+    "headline": "Rescission of the Greenhouse Gas Endangerment Finding and Motor Vehicle Greenhouse Gas Emission Standards Under the Clean Air Act",
+    "url": "https://www.federalregister.gov/documents/2026/02/18/2026-03157/rescission-of-the-greenhouse-gas-endangerment-finding-and-motor-vehicle-greenhouse-gas-emission",
+    "source": "Federal Register",
+    "date": "2026-02-18",
+    "summary": "EPA published a final rule rescinding the 2009 endangerment finding and the associated motor-vehicle greenhouse gas emission standards under the Clean Air Act.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal rulemaking document."
+  },
+  {
+    "id": "news-201",
+    "recommendation_ids": [
+      "epa-005"
+    ],
+    "headline": "Up in the Air: EPA Opens Comment on Repealing Endangerment Finding, Motor Vehicle GHG Rules",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/08/up-in-the-air-epa-opens-comment-on-repealing-endangerment-finding",
+    "source": "Holland & Knight",
+    "date": "2025-08-01",
+    "summary": "EPA proposed repealing greenhouse gas emissions standards for vehicles and rescinding the 2009 endangerment finding, opening a public comment period ahead of the 2026 final rule.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client-alert analysis of the agency's own proposed rule."
+  },
+  {
+    "id": "news-202",
+    "recommendation_ids": [
+      "epa-007"
+    ],
+    "headline": "EPA & Army Corps Unveil Clear, Durable WOTUS Proposal",
+    "url": "https://www.epa.gov/newsreleases/epa-army-corps-unveil-clear-durable-wotus-proposal",
+    "source": "U.S. EPA",
+    "date": "2025-11-17",
+    "summary": "EPA and the Army Corps of Engineers proposed a new 'waters of the United States' rule narrowing federal Clean Water Act jurisdiction to relatively permanent waters and adjacent wetlands, consistent with the Supreme Court's Sackett decision.",
+    "credibility": "High",
+    "credibility_rationale": "Official EPA press release describing the agency's own proposed rule."
+  },
+  {
+    "id": "news-203",
+    "recommendation_ids": [
+      "epa-006",
+      "dot-005"
+    ],
+    "headline": "Trump Rescinds California's Emission Waivers: What It Means for the Future of EV Mandates",
+    "url": "https://www.seyfarth.com/news-insights/trump-rescinds-californias-emission-waivers-what-it-means-for-the-future-of-ev-mandates.html",
+    "source": "Seyfarth Shaw LLP",
+    "date": "2025-06-12",
+    "summary": "Trump signed three Congressional Review Act resolutions revoking EPA Clean Air Act waivers that let California set its own vehicle-emissions and EV-sales-mandate rules; eleven states sued to block the rescissions.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm analysis summarizing signed legislation and resulting litigation."
+  },
+  {
+    "id": "news-204",
+    "recommendation_ids": [
+      "epa-008"
+    ],
+    "headline": "EPA Will Retain PFOA and PFOS CERCLA Hazardous Substance Designation",
+    "url": "https://natlawreview.com/article/epa-will-retain-pfoa-and-pfos-cercla-hazardous-substance-designation",
+    "source": "National Law Review",
+    "date": "2025-09-17",
+    "summary": "EPA announced it will retain, rather than revisit, the CERCLA hazardous-substance designation for PFOA/PFOS, while planning a broader framework rule to guide future PFAS designations.",
+    "credibility": "Medium",
+    "credibility_rationale": "Legal trade publication summarizing EPA's announced decision."
+  },
+  {
+    "id": "news-205",
+    "recommendation_ids": [
+      "epa-003"
+    ],
+    "headline": "EPA Eliminates Environmental Justice Offices Under Trump",
+    "url": "https://planetdetroit.org/2025/03/epa-terminates-environmental-justice/",
+    "source": "Planet Detroit",
+    "date": "2025-03-12",
+    "summary": "EPA Administrator Lee Zeldin ordered the closure of the stand-alone Office of Environmental Justice and External Civil Rights and its regional divisions, citing the administration's anti-DEI executive order.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonprofit news outlet reporting corroborated by EPA's own statements."
+  },
+  {
+    "id": "news-206",
+    "recommendation_ids": [
+      "hhs-001"
+    ],
+    "headline": "RFK Jr. Plans to Slash HHS Workforce by 25% in Massive Reorganization",
+    "url": "https://www.statnews.com/2025/03/27/rfk-jr-10000-job-cuts-hhs-restructuring-health-agency-impacts-cdc-fda-nih-cms/",
+    "source": "STAT News",
+    "date": "2025-03-27",
+    "summary": "HHS announced a restructuring consolidating 28 divisions into 15, including folding several CDC functions such as HIV and maternal-child health into a new Administration for a Healthy America.",
+    "credibility": "Medium",
+    "credibility_rationale": "Health-policy trade outlet with editorial standards, based on HHS's own announcement."
+  },
+  {
+    "id": "news-207",
+    "recommendation_ids": [
+      "hhs-001"
+    ],
+    "headline": "Court Halts RFK Health Agency Restructuring",
+    "url": "https://www.axios.com/2025/07/01/court-halts-rfk-health-agency-restructuring",
+    "source": "Axios",
+    "date": "2025-07-01",
+    "summary": "A federal court blocked parts of the HHS reorganization from proceeding, though thousands of mass layoffs already underway were allowed to stand.",
+    "credibility": "Medium",
+    "credibility_rationale": "Mainstream news outlet report on a litigation outcome."
+  },
+  {
+    "id": "news-208",
+    "recommendation_ids": [
+      "hhs-006"
+    ],
+    "headline": "FDA to Conduct Safety Review of Abortion Pill Mifepristone",
+    "url": "https://thehill.com/policy/healthcare/5911664-fda-review-mifepristone-abortion-drug-safety/",
+    "source": "The Hill",
+    "date": "2026-05-01",
+    "summary": "FDA launched a retrospective safety review of mifepristone at HHS Secretary Kennedy's direction that could lead to tighter telehealth/mail-order restrictions or removal of the drug from the market.",
+    "credibility": "Medium",
+    "credibility_rationale": "National political news outlet with editorial standards."
+  },
+  {
+    "id": "news-209",
+    "recommendation_ids": [
+      "hhs-006"
+    ],
+    "headline": "Abortion Pill Mifepristone Access Steady Under Trump, FDA Review Looms",
+    "url": "https://www.cnbc.com/2025/11/25/abortion-pill-mifepristone-access-trump-fda.html",
+    "source": "CNBC",
+    "date": "2025-11-25",
+    "summary": "A federal court in Virginia ruled that FDA's existing mifepristone restrictions were 'arbitrary and capricious' and ordered the agency to reconsider them, even as a separate administration safety review remained pending.",
+    "credibility": "Medium",
+    "credibility_rationale": "Wire-adjacent business news outlet with editorial standards."
+  },
+  {
+    "id": "news-210",
+    "recommendation_ids": [
+      "hhs-015"
+    ],
+    "headline": "CMS Rescinds Post-Dobbs EMTALA Guidance, Raising New Questions for Emergency Departments",
+    "url": "https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2025/june/cms-rescinds-post-dobbs-emtala-guidance-raising-new-questions-for-emergency-departments/",
+    "source": "Foley Hoag LLP",
+    "date": "2025-05-29",
+    "summary": "CMS formally rescinded 2022 guidance stating EMTALA requires hospitals to perform emergency abortions when necessary to stabilize a patient, while maintaining that EMTALA still preempts directly conflicting state bans.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm alert summarizing official CMS action."
+  },
+  {
+    "id": "news-211",
+    "recommendation_ids": [
+      "hhs-018"
+    ],
+    "headline": "US Head Start Preschool Programs Hit by Trump Cuts, Funding Delays",
+    "url": "https://www.usnews.com/news/politics/articles/2025-05-20/us-head-start-preschool-programs-hit-by-trump-cuts-funding-delays",
+    "source": "US News & World Report",
+    "date": "2025-05-20",
+    "summary": "The administration proposed eliminating Head Start funding in an internal draft budget and separately delayed and withheld grant funding, though the final budget sent to Congress did not include full elimination.",
+    "credibility": "Medium",
+    "credibility_rationale": "National news outlet with editorial standards."
+  },
+  {
+    "id": "news-212",
+    "recommendation_ids": [
+      "hhs-018"
+    ],
+    "headline": "NEW: Trump Admin Withholding Nearly $1 Billion in Funding for Head Start",
+    "url": "https://www.murray.senate.gov/new-trump-admin-withholding-nearly-1-billion-in-funding-for-head-start-crunching-centers-nationwide-and-forcing-devastating-closures/",
+    "source": "Office of Sen. Patty Murray",
+    "date": "2025-06-01",
+    "summary": "A Senate Democratic office reported the administration withheld close to $1 billion in Head Start grants, citing a 37% year-over-year decline in funding issued to centers nationwide.",
+    "credibility": "Low",
+    "credibility_rationale": "Partisan congressional office press release, not independent reporting."
+  },
+  {
+    "id": "news-213",
+    "recommendation_ids": [
+      "hhs-020"
+    ],
+    "headline": "HHS Shifts Title X Grants Focus Away from Planned Parenthood",
+    "url": "https://www.washingtonexaminer.com/policy/healthcare/4516112/hhs-shift-title-x-family-planning-grant-birth-control-fertility-support/",
+    "source": "Washington Examiner",
+    "date": "2026-04-01",
+    "summary": "HHS issued new 2027 Title X funding guidelines requiring grantees not to perform or refer for abortions, though the administration has not formally reinstated the 2019 'Protect Life Rule' despite Secretary Kennedy's stated intent to do so.",
+    "credibility": "Medium",
+    "credibility_rationale": "Ideologically-leaning but editorially staffed national outlet."
+  },
+  {
+    "id": "news-214",
+    "recommendation_ids": [
+      "hhs-014"
+    ],
+    "headline": "First Circuit Reverses Block on Trump's Planned Parenthood Funding Cuts",
+    "url": "https://www.courthousenews.com/first-circuit-reverses-block-on-trumps-planned-parenthood-funding-cuts/",
+    "source": "Courthouse News Service",
+    "date": "2026-06-01",
+    "summary": "The One Big Beautiful Bill Act's one-year Medicaid defunding of Planned Parenthood took partial effect after litigation; a district court injunction blocking it was reversed on appeal before the provision expired in July 2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "Legal-affairs wire service covering court filings and rulings directly."
+  },
+  {
+    "id": "news-215",
+    "recommendation_ids": [
+      "hhs-013"
+    ],
+    "headline": "A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law",
+    "url": "https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/",
+    "source": "KFF",
+    "date": "2025-07-10",
+    "summary": "The One Big Beautiful Bill Act, signed July 4, 2025, requires most states to condition Medicaid expansion eligibility on at least 80 hours per month of work or other qualifying activity, phasing in through January 2027.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan health policy research organization."
+  },
+  {
+    "id": "news-216",
+    "recommendation_ids": [
+      "hhs-011"
+    ],
+    "headline": "Mintz IRA Update — Medicare Drug Price Negotiation Program Updates for Q3 2025",
+    "url": "https://www.mintz.com/insights-center/viewpoints/2146/2025-09-09-mintz-ira-update-ira-medicare-drug-price-negotiation",
+    "source": "Mintz",
+    "date": "2025-09-09",
+    "summary": "Rather than repealing the IRA's Medicare drug price negotiation program, the administration continued implementing and expanding it (including into Part B) while narrowing its orphan-drug exclusion, contrary to the recommendation to repeal it.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm regulatory update tracking program implementation."
+  },
+  {
+    "id": "news-217",
+    "recommendation_ids": [
+      "hud-005"
+    ],
+    "headline": "Affirmatively Furthering Fair Housing; Withdrawal",
+    "url": "https://www.federalregister.gov/documents/2025/01/16/2025-00981/affirmatively-furthering-fair-housing-withdrawal",
+    "source": "Federal Register",
+    "date": "2025-01-16",
+    "summary": "HUD formally withdrew the Biden-era 2023 proposed Affirmatively Furthering Fair Housing rule, ending that rulemaking process and later replacing it with a minimal certification standard.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal rulemaking notice."
+  },
+  {
+    "id": "news-218",
+    "recommendation_ids": [
+      "hud-007"
+    ],
+    "headline": "HUD Reintroduces Proposed Rule Targeting Rental Aid for Mixed-Status Immigrant Households",
+    "url": "https://stateline.org/2026/02/24/hud-reintroduces-proposed-rule-targeting-rental-aid-for-mixed-status-immigrant-households/",
+    "source": "Stateline",
+    "date": "2026-02-24",
+    "summary": "HUD proposed a rule requiring verification of citizenship or eligible immigration status for all members of households receiving federal rental assistance, which advocates estimate could affect roughly 80,000 people including 37,000 children.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan state-policy news service."
+  },
+  {
+    "id": "news-219",
+    "recommendation_ids": [
+      "doi-005"
+    ],
+    "headline": "Interior Department Announces New Arctic Refuge Oil and Gas Lease Sale for January",
+    "url": "https://www.taxpayer.net/energy-natural-resources/interior-department-announces-new-arctic-refuge-oil-and-gas-lease-sale-for-january/",
+    "source": "Taxpayers for Common Sense",
+    "date": "2025-01-06",
+    "summary": "Interior held a congressionally mandated ANWR Coastal Plain lease sale in January 2025 that drew no bids, the second such sale to fail to attract industry interest since 2021; a further sale was planned under the 2025 reconciliation law.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan budget watchdog group tracking federal leasing data."
+  },
+  {
+    "id": "news-220",
+    "recommendation_ids": [
+      "doi-014"
+    ],
+    "headline": "Trump Reduces Size of Two National Monuments in Utah as Republicans Reshape Land Management",
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-reduces-size-bears-ears-grand-staircase-escalante-utah-antiquiti-rcna587397",
+    "source": "NBC News",
+    "date": "2026-07-13",
+    "summary": "Trump signed proclamations shrinking Bears Ears and Grand Staircase-Escalante national monuments by about 90%, reviving a first-term reduction Biden had reversed; his legal authority to shrink (rather than create) monuments remains legally contested.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major broadcast news outlet with editorial standards."
+  },
+  {
+    "id": "news-221",
+    "recommendation_ids": [
+      "doi-004"
+    ],
+    "headline": "The Department of the Interior Moves to Restore Coal Industry",
+    "url": "https://www.doi.gov/pressreleases/department-interior-moves-restore-coal-industry",
+    "source": "U.S. Department of the Interior",
+    "date": "2025-04-08",
+    "summary": "Interior terminated the Biden-era programmatic environmental review that had paused coal leasing and restarted the federal coal leasing program, later expanding to roughly 13.1 million acres under the One Big Beautiful Bill Act.",
+    "credibility": "High",
+    "credibility_rationale": "Official agency press release describing its own action."
+  },
+  {
+    "id": "news-222",
+    "recommendation_ids": [
+      "doi-015"
+    ],
+    "headline": "U.S. Fish and Wildlife Service Announces It Will Not Develop a Recovery Plan for the Gray Wolf",
+    "url": "https://www.naco.org/news/us-fish-and-wildlife-service-announces-it-will-not-develop-recovery-plan-gray-wolf",
+    "source": "National Association of Counties",
+    "date": "2025-11-03",
+    "summary": "FWS found that continued Endangered Species Act listing of the gray wolf is 'no longer appropriate' and declined to write a national recovery plan, though full delisting still requires further rulemaking not finalized as of mid-2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "County government association reporting on federal agency action."
+  },
+  {
+    "id": "news-223",
+    "recommendation_ids": [
+      "doi-015"
+    ],
+    "headline": "Feds Transfer Grizzly Bear Management to States",
+    "url": "https://montanafreepress.org/2026/07/15/feds-transfer-grizzly-bear-management-to-states/",
+    "source": "Montana Free Press",
+    "date": "2026-07-15",
+    "summary": "Interior proposed shifting grizzly bear management authority in the Greater Yellowstone Ecosystem to Idaho, Wyoming, Montana and Washington without fully delisting the species, after delaying a final delisting rule to December 2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonprofit regional newsroom with editorial standards."
+  },
+  {
+    "id": "news-224",
+    "recommendation_ids": [
+      "doi-008"
+    ],
+    "headline": "Could Colorado Be Home to the BLM's National Headquarters — Again?",
+    "url": "https://www.cpr.org/2025/05/28/trump-blm-headquarters-grand-junction-debate-again/",
+    "source": "Colorado Public Radio",
+    "date": "2025-05-28",
+    "summary": "Congressional Republicans introduced legislation to relocate BLM headquarters from Washington back to Grand Junction, Colorado, reviving the first-term Trump move Biden had reversed; as of mid-2026 the relocation had not been completed.",
+    "credibility": "Medium",
+    "credibility_rationale": "Public radio news outlet with editorial standards."
+  },
+  {
+    "id": "news-225",
+    "recommendation_ids": [
+      "doi-003"
+    ],
+    "headline": "Interior Launches Expansive 11th National Offshore Leasing Program to Advance U.S. Energy Dominance",
+    "url": "https://www.doi.gov/pressreleases/interior-launches-expansive-11th-national-offshore-leasing-program-advance-us-energy",
+    "source": "U.S. Department of the Interior",
+    "date": "2025-11-20",
+    "summary": "BOEM released a draft 2026-2031 outer continental shelf oil and gas leasing program proposing up to 34 lease sales, including new areas off California, New England and the Carolinas; the program remained unfinalized as of mid-2026.",
+    "credibility": "High",
+    "credibility_rationale": "Official agency press release on its own proposed program."
+  },
+  {
+    "id": "news-226",
+    "recommendation_ids": [
+      "doi-007"
+    ],
+    "headline": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
+    "source": "The White House",
+    "date": "2025-01-20",
+    "summary": "Trump signed Executive Order 14171 reinstating the Schedule F framework (renamed 'Schedule Policy/Career'), making it easier to reclassify and remove career civil servants in policy-influencing roles across agencies including Interior.",
+    "credibility": "High",
+    "credibility_rationale": "Official text of the executive order."
+  },
+  {
+    "id": "news-227",
+    "recommendation_ids": [
+      "lab-004"
+    ],
+    "headline": "Rescission of Executive Order 11246 Implementing Regulations",
+    "url": "https://www.federalregister.gov/documents/2025/07/01/2025-12276/rescission-of-executive-order-11246-implementing-regulations",
+    "source": "Federal Register",
+    "date": "2025-07-01",
+    "summary": "DOL published a proposed rule formally rescinding regulations implementing Executive Order 11246 after Trump revoked the 1965 order in January 2025, eliminating OFCCP's core affirmative-action enforcement authority over federal contractors.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal rulemaking notice."
+  },
+  {
+    "id": "news-228",
+    "recommendation_ids": [
+      "lab-007"
+    ],
+    "headline": "DOL Moves to Loosen Independent Contractor Regulations",
+    "url": "https://www.hrdive.com/news/dol-independent-contractor-rule-2026/813202/",
+    "source": "HR Dive",
+    "date": "2026-02-27",
+    "summary": "DOL proposed rescinding the 2024 independent-contractor rule and returning to a Trump-era 'economic reality test,' publishing the proposal for public comment through late April 2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "HR-industry trade press with editorial standards."
+  },
+  {
+    "id": "news-229",
+    "recommendation_ids": [
+      "lab-003"
+    ],
+    "headline": "Trump Executive Order Seeks to Eliminate Disparate-Impact Liability",
+    "url": "https://www.mayerbrown.com/en/insights/publications/2025/04/trump-executive-order-seeks-to-eliminate-disparate-impact-liability",
+    "source": "Mayer Brown",
+    "date": "2025-04-23",
+    "summary": "Trump signed an executive order directing federal agencies to deprioritize enforcement actions relying on disparate-impact theories of discrimination and to review regulations imposing such liability under Title VII.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm analysis of the executive order's text and directives."
+  },
+  {
+    "id": "news-230",
+    "recommendation_ids": [
+      "lab-002"
+    ],
+    "headline": "Federal Civil Rights Agency Moves to Stop Requiring Demographic Data Collection After 60 Years",
+    "url": "https://www.pbs.org/newshour/politics/federal-civil-rights-agency-moves-to-stop-requiring-demographic-data-collection-after-60-years",
+    "source": "PBS News",
+    "date": "2026-06-01",
+    "summary": "The EEOC voted 2-1 to propose ending mandatory EEO-1 reporting of employee race and sex data by companies with 100 or more employees, opening the rule for public comment.",
+    "credibility": "Medium",
+    "credibility_rationale": "Public broadcaster with established editorial standards."
+  },
+  {
+    "id": "news-231",
+    "recommendation_ids": [
+      "lab-014"
+    ],
+    "headline": "Rising Agricultural Wages: Context for Congressional Interest in the H-2A Visa Program",
+    "url": "https://www.congress.gov/crs-product/R48614",
+    "source": "Congressional Research Service",
+    "date": "2026-03-01",
+    "summary": "Congress has not capped or phased down the H-2A program as recommended; usage instead grew to nearly 400,000 workers in 2025, with pending bipartisan legislation (Farm Workforce Modernization Act) moving in the opposite direction.",
+    "credibility": "High",
+    "credibility_rationale": "Nonpartisan congressional research service report."
+  },
+  {
+    "id": "news-232",
+    "recommendation_ids": [
+      "dot-004"
+    ],
+    "headline": "Department of Transportation Proposes Dramatic Rollback of Corporate Average Fuel Economy (CAFE) Standards",
+    "url": "https://environmentalhealthsafetybrief.sidley.com/2025/12/05/department-of-transportation-proposes-dramatic-rollback-of-corporate-average-fuel-economy-cafe-standards/",
+    "source": "Sidley Austin LLP",
+    "date": "2025-12-05",
+    "summary": "NHTSA proposed resetting CAFE baselines and slowing required fuel-economy increases for model years 2022-2031, projecting a fleet average of about 34.5 mpg by 2031, well below current-law targets; the rule remained a proposal pending comment.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm regulatory alert summarizing the proposed rule's text."
+  },
+  {
+    "id": "news-233",
+    "recommendation_ids": [
+      "com-001",
+      "com-010"
+    ],
+    "headline": "As Trump Slashed Weather Agency, His Appointees Have Ties to Companies That Stand to Benefit from Privatizing Forecasts",
+    "url": "https://www.pbs.org/newshour/politics/as-trump-slashed-weather-agency-his-appointees-have-ties-to-companies-that-stand-to-benefit-from-privatizing-forecasts",
+    "source": "PBS News",
+    "date": "2025-07-01",
+    "summary": "NOAA cut hundreds of staff, including hurricane hunters and severe-storm researchers, while administration officials with ties to private weather-forecasting firms pushed to commercialize National Weather Service operations; full dismantlement or commercialization has not occurred.",
+    "credibility": "Medium",
+    "credibility_rationale": "Public broadcaster investigative reporting with editorial standards."
+  },
+  {
+    "id": "news-234",
+    "recommendation_ids": [
+      "com-013"
+    ],
+    "headline": "Trump Officials Push Citizenship Question in Test Survey for 2030 Census",
+    "url": "https://www.axios.com/2026/02/06/trump-census-citizenship-question-test-survey",
+    "source": "Axios",
+    "date": "2026-02-06",
+    "summary": "The Census Bureau is testing a citizenship question ahead of the 2030 census through a 2026 operational field test, after Trump directed Commerce in August 2025 to develop a census excluding unauthorized immigrants from apportionment counts; no final decision on the 2030 questionnaire has been made.",
+    "credibility": "Medium",
+    "credibility_rationale": "National news outlet with editorial standards."
+  },
+  {
+    "id": "news-235",
+    "recommendation_ids": [
+      "va-001"
+    ],
+    "headline": "Trump Administration Officially Ends Veteran Abortion Access",
+    "url": "https://www.newsfromthestates.com/article/trump-administration-officially-ends-veteran-abortion-access",
+    "source": "States Newsroom",
+    "date": "2025-03-01",
+    "summary": "Following Justice Department guidance, the VA ended its 2022 policy that had allowed abortion counseling and, in limited cases, abortion care for veterans and dependents.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonprofit state-focused news network with editorial standards."
+  },
+  {
+    "id": "news-236",
+    "recommendation_ids": [
+      "va-001"
+    ],
+    "headline": "VA Rescinds 2018 Directive on Transgender Treatments, Aligning with Trump's Two-Sexes EO",
+    "url": "https://www.foxnews.com/politics/va-rescinds-2018-directive-transgender-treatments-aligning-trump-two-sexes-eo",
+    "source": "Fox News",
+    "date": "2025-03-01",
+    "summary": "The VA rescinded its 2018 directive providing hormone therapy and other transgender-related medical services to new patients, aligning with Trump's executive order on sex and gender; veterans already receiving hormone therapy retained coverage.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major national outlet, though its politics desk is frequently characterized as ideologically aligned with the administration on this topic."
+  },
+  {
+    "id": "news-300",
+    "recommendation_ids": [
+      "tre-005"
+    ],
+    "headline": "Trump Orders Withdrawal From Global Tax Deal And Initiates America First Trade Policy",
+    "url": "https://www.forbes.com/sites/kellyphillipserb/2025/01/22/trump-orders-withdrawal-from-global-tax-deal-and-initiates-america-first-trade-policy/",
+    "source": "Forbes",
+    "date": "2025-01-22",
+    "summary": "On his first day in office Trump signed a memorandum declaring that OECD global minimum tax commitments made by the Biden administration \"have no force or effect\" in the U.S. absent congressional action, and suspended U.S. participation in Pillar One negotiations.",
+    "credibility": "Medium",
+    "credibility_rationale": "Forbes contributor piece citing the official memorandum; not a wire service but widely corroborated."
+  },
+  {
+    "id": "news-301",
+    "recommendation_ids": [
+      "tre-007"
+    ],
+    "headline": "DOGE proposes cutting IRS workforce by a total of nearly 20%",
+    "url": "https://www.cnn.com/2025/03/13/politics/doge-irs-workforce-cuts-downsizing/index.html",
+    "source": "CNN",
+    "date": "2025-03-13",
+    "summary": "The Trump administration and DOGE moved to cut the IRS workforce by roughly 20%, on top of earlier layoffs of probationary employees and buyouts, going well beyond the Treasury chapter's call to merely hold the IRS budget flat.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards reporting on internal agency planning documents."
+  },
+  {
+    "id": "news-302",
+    "recommendation_ids": [
+      "tre-007"
+    ],
+    "headline": "The IRS has lost almost one-third of its tax auditors after 2 months of DOGE cuts, report says",
+    "url": "https://www.cbsnews.com/news/irs-doge-cuts-layoffs-31-percent-auditors-tax-revenue-impact/",
+    "source": "CBS News",
+    "date": "2025-05-01",
+    "summary": "An internal watchdog report found the IRS lost roughly 31% of its tax auditors within two months of DOGE-driven cuts, part of a broader downsizing that also cut about 40% of the IT workforce during 2025.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet reporting based on an internal Treasury/IRS watchdog report."
+  },
+  {
+    "id": "news-303",
+    "recommendation_ids": [
+      "tre-009"
+    ],
+    "headline": "Trump administration warms to IMF and World Bank, in rare nod to global bodies",
+    "url": "https://www.bostonglobe.com/2026/04/19/nation/trump-administration-warms-to-imf-world-bank/",
+    "source": "The Boston Globe",
+    "date": "2026-04-19",
+    "summary": "After a February 2025 executive order triggered a six-month review of U.S. membership in international bodies including the IMF and World Bank, Treasury Secretary Scott Bessent by 2026 had shifted toward working with both institutions rather than pursuing withdrawal.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major regional newspaper with editorial standards."
+  },
+  {
+    "id": "news-304",
+    "recommendation_ids": [
+      "tre-010"
+    ],
+    "headline": "President Trump Announces \"America First Investment Policy\" to Promote Investments from Allies and Enhance Restrictions on China",
+    "url": "https://www.wiley.law/alert-President-Trump-Announces-America-First-Investment-Policy-to-Promote-Investments-from-Allies-and-Enhance-Restrictions-on-China",
+    "source": "Wiley Rein (law firm client alert)",
+    "date": "2025-02-21",
+    "summary": "A February 2025 White House policy memo directed tighter CFIUS scrutiny of Chinese investment, including a push to expand CFIUS jurisdiction to cover greenfield investments, though no legislation making Defense a formal CFIUS co-chair has passed.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client alert summarizing an official White House policy document."
+  },
+  {
+    "id": "news-305",
+    "recommendation_ids": [
+      "tre-013"
+    ],
+    "headline": "Trump is planning a massive IPO of the government's mortgage companies",
+    "url": "https://www.cnn.com/2025/08/08/business/fannie-freddie-ipo",
+    "source": "CNN",
+    "date": "2025-08-08",
+    "summary": "The administration said it was planning a partial public stock offering of Fannie Mae and Freddie Mac that could raise around $30 billion, a step toward privatization, while the companies would remain under conservatorship and government oversight.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-306",
+    "recommendation_ids": [
+      "tre-013"
+    ],
+    "headline": "Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?",
+    "url": "https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors",
+    "source": "NPR",
+    "date": "2026-02-03",
+    "summary": "As of February 2026, FHFA Director Bill Pulte said a decision on the Fannie Mae/Freddie Mac IPO plan was still pending, with the companies remaining in conservatorship more than a year after the administration first floated privatization.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-307",
+    "recommendation_ids": [
+      "tre-014"
+    ],
+    "headline": "U.S. Department of the Treasury Announces Publication of Interim Final Rule Removing Reporting Requirements for U.S. Companies and U.S. Persons",
+    "url": "https://home.treasury.gov/news/press-releases/sb0060",
+    "source": "U.S. Department of the Treasury",
+    "date": "2025-03-21",
+    "summary": "FinCEN issued an interim final rule exempting all U.S.-formed companies and persons from Corporate Transparency Act beneficial ownership reporting, narrowing the rule to apply only to foreign entities registered to do business in the U.S.",
+    "credibility": "High",
+    "credibility_rationale": "Official government press release and rule announcement."
+  },
+  {
+    "id": "news-308",
+    "recommendation_ids": [
+      "tre-015"
+    ],
+    "headline": "President Trump Acts to Roll Back DEI Initiatives",
+    "url": "https://corpgov.law.harvard.edu/2025/02/10/president-trump-acts-to-roll-back-dei-initiatives/",
+    "source": "Harvard Law School Forum on Corporate Governance",
+    "date": "2025-02-10",
+    "summary": "Executive orders signed in January 2025 directed all federal agencies, including Treasury, to close DEI offices and place staff on leave as part of a government-wide rollback of diversity, equity and inclusion programs.",
+    "credibility": "Medium",
+    "credibility_rationale": "Academic law-school governance forum summarizing official executive orders."
+  },
+  {
+    "id": "news-309",
+    "recommendation_ids": [
+      "tra-004"
+    ],
+    "headline": "Fact Sheet: President Donald J. Trump Closes De Minimis Exemptions to Combat China's Role in America's Synthetic Opioid Crisis",
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/",
+    "source": "The White House",
+    "date": "2025-04-02",
+    "summary": "An April 2025 executive order ended duty-free de minimis treatment for low-value shipments from China and Hong Kong effective May 2, 2025; a July 2025 order later extended the elimination of the $800 de minimis exemption globally.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House fact sheet describing a signed executive order."
+  },
+  {
+    "id": "news-310",
+    "recommendation_ids": [
+      "tra-002",
+      "tra-012"
+    ],
+    "headline": "Brookings experts on the Supreme Court's tariff decision",
+    "url": "https://www.brookings.edu/articles/brookings-experts-on-the-supreme-courts-tariff-decision/",
+    "source": "Brookings Institution",
+    "date": "2026-02-20",
+    "summary": "The Supreme Court ruled 6-3 in Learning Resources v. Trump that IEEPA does not authorize the sweeping reciprocal and China/Mexico/Canada tariffs Trump imposed, forcing the administration to halt IEEPA tariff collection and pivot to Section 301 and 232 authorities instead.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan think tank analysis of an official Supreme Court ruling."
+  },
+  {
+    "id": "news-311",
+    "recommendation_ids": [
+      "tra-012"
+    ],
+    "headline": "Proposed New Section 301 Tariffs and Other Trade-Related Developments",
+    "url": "https://www.dorsey.com/newsresources/publications/client-alerts/2026/6/new-section-301-tariffs",
+    "source": "Dorsey & Whitney (law firm client alert)",
+    "date": "2026-06-01",
+    "summary": "Following the Supreme Court's invalidation of IEEPA tariffs, the administration launched new Section 301 investigations covering manufacturing overcapacity and forced labor across dozens of countries, expanding rather than repealing Section 232/301 tariff authority as the free-trade essay recommended.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client alert tracking official USTR notices and investigations."
+  },
+  {
+    "id": "news-312",
+    "recommendation_ids": [
+      "tra-006",
+      "fcc-006"
+    ],
+    "headline": "Trump signs executive order on TikTok deal: what to know",
+    "url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-tiktok-deal-know-rcna233518",
+    "source": "NBC News",
+    "date": "2025-09-25",
+    "summary": "Rather than banning TikTok as Project 2025 recommended, Trump signed an executive order advancing a joint-venture deal in which ByteDance's stake falls below 20% and Oracle oversees U.S. data and code, with enforcement paused through January 23, 2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards."
+  },
+  {
+    "id": "news-313",
+    "recommendation_ids": [
+      "tra-006",
+      "fcc-006"
+    ],
+    "headline": "Saving TikTok While Protecting National Security",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/09/saving-tiktok-while-protecting-national-security/",
+    "source": "The White House",
+    "date": "2025-09-25",
+    "summary": "The official executive order framework keeps TikTok operating in the U.S. under restructured, majority-American ownership rather than imposing the outright ban recommended in Project 2025's trade and FCC chapters.",
+    "credibility": "High",
+    "credibility_rationale": "Official White House presidential action text."
+  },
+  {
+    "id": "news-314",
+    "recommendation_ids": [
+      "exim-001",
+      "tra-014"
+    ],
+    "headline": "Export-Import Bank Reauthorization Act of 2026 (S.3772)",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3772/all-info",
+    "source": "Congress.gov / Library of Congress",
+    "date": "2026-01-01",
+    "summary": "Rather than abolishing EXIM or letting its charter lapse at the end of 2026, Congress introduced legislation to extend the bank's charter by another ten years, running contrary to the abolish- and let-lapse recommendations in the Economy chapter.",
+    "credibility": "High",
+    "credibility_rationale": "Official congressional legislative record."
+  },
+  {
+    "id": "news-315",
+    "recommendation_ids": [
+      "fed-011"
+    ],
+    "headline": "President Trump signs Executive Order on Digital Assets and American Financial Technology",
+    "url": "https://www.reedsmith.com/articles/trump-signs-executive-order-digital-assets-american-financial-technology/",
+    "source": "Reed Smith (law firm client alert)",
+    "date": "2025-01-23",
+    "summary": "Trump signed an executive order on January 23, 2025 prohibiting federal agencies from establishing, issuing, or promoting a U.S. central bank digital currency and directing termination of any ongoing CBDC-related initiatives.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client alert summarizing the official executive order text."
+  },
+  {
+    "id": "news-316",
+    "recommendation_ids": [
+      "fed-011"
+    ],
+    "headline": "Lee Introduces Bill Making Trump Ban on Central Bank Digital Currency Permanent",
+    "url": "https://www.lee.senate.gov/2025/2/lee-introduces-bill-making-trump-ban-on-central-bank-digital-currency-permanent",
+    "source": "Office of Sen. Mike Lee",
+    "date": "2025-02-01",
+    "summary": "Sen. Mike Lee introduced legislation to codify Trump's executive order banning a U.S. central bank digital currency into permanent law, since an executive order alone could be reversed by a future administration.",
+    "credibility": "Medium",
+    "credibility_rationale": "Official congressional office press release describing introduced legislation, though inherently promotional of the sponsor's own bill."
+  },
+  {
+    "id": "news-317",
+    "recommendation_ids": [
+      "fed-010"
+    ],
+    "headline": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now",
+    "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
+    "source": "CNBC",
+    "date": "2026-06-29",
+    "summary": "In a 5-4 ruling, the Supreme Court blocked Trump's August 2025 attempt to fire Fed Governor Lisa Cook while litigation continues, with the majority opinion emphasizing that both the fact and appearance of Federal Reserve independence are central to its design.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major outlet with editorial standards reporting on an official Supreme Court decision."
+  },
+  {
+    "id": "news-318",
+    "recommendation_ids": [
+      "fin-012"
+    ],
+    "headline": "American Leadership in the Digital Finance Revolution",
+    "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-digital-finance-revolution-073125",
+    "source": "U.S. Securities and Exchange Commission",
+    "date": "2025-07-31",
+    "summary": "SEC Chairman Paul Atkins announced \"Project Crypto,\" directing SEC staff to draft simplified rules for digital asset distribution, custody, and trading and declaring that most crypto assets fall outside securities law, with formal rule proposals expected in 2026.",
+    "credibility": "High",
+    "credibility_rationale": "Official SEC speech published on the agency's own website."
+  },
+  {
+    "id": "news-319",
+    "recommendation_ids": [
+      "fin-014"
+    ],
+    "headline": "Trump Administration Seeks to Dismantle CFPB Amid Legal Challenges",
+    "url": "https://www.arnoldporter.com/en/perspectives/advisories/2025/02/trump-administration-seeks-to-dismantle-cfpb",
+    "source": "Arnold & Porter (law firm client alert)",
+    "date": "2025-02-01",
+    "summary": "Acting CFPB Director Russell Vought ordered a halt to nearly all agency supervision, enforcement, and rulemaking activity in February 2025, prompting a federal judge to issue a preliminary injunction in March 2025 blocking the agency's dismantlement.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client alert summarizing official agency actions and a federal court order."
+  },
+  {
+    "id": "news-320",
+    "recommendation_ids": [
+      "fin-014"
+    ],
+    "headline": "Warren Statement on Second Court Ruling That Vought Cannot Starve CFPB of Funding",
+    "url": "https://www.banking.senate.gov/newsroom/minority/statement-from-senator-warren-on-second-court-ruling-that-vought-cannot-starve-cfpb-of-funding",
+    "source": "Senate Banking Committee (Minority/Sen. Warren office)",
+    "date": "2026-03-13",
+    "summary": "A federal court again rejected Acting Director Vought's attempt to defund the CFPB in early 2026, ruling he could not effectively close the congressionally-created agency without an act of Congress; the underlying litigation continued.",
+    "credibility": "Low",
+    "credibility_rationale": "Partisan senator's office statement, though it references an official court ruling."
+  },
+  {
+    "id": "news-321",
+    "recommendation_ids": [
+      "fin-016"
+    ],
+    "headline": "Lawmakers introduce bill to repeal Section 1071 data collection",
+    "url": "https://bankingjournal.aba.com/2025/02/lawmakers-introduce-bill-to-repeal-section-1071-data-collection/",
+    "source": "ABA Banking Journal",
+    "date": "2025-02-05",
+    "summary": "House and Senate Republicans introduced companion bills to repeal Dodd-Frank Section 1071's small-business lending data collection mandate, though the legislation had not been enacted as of mid-2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "Banking industry trade press with editorial standards."
+  },
+  {
+    "id": "news-322",
+    "recommendation_ids": [
+      "fcc-001",
+      "fcc-003"
+    ],
+    "headline": "Is Section 230 Going to Change? The FTC, DOJ and FCC Signal Significant Change for Online Businesses",
+    "url": "https://www.crowell.com/en/insights/client-alerts/is-section-230-going-to-change-the-ftc-doj-and-fcc-signal-significant-change-for-online-businesses",
+    "source": "Crowell & Moring (law firm client alert)",
+    "date": "2025-04-01",
+    "summary": "In April 2025, FCC Chairman Brendan Carr joined DOJ and FTC officials in publicly endorsing a narrower reading of Section 230 that would strip immunity for platform content-removal decisions, though no final FCC order adopting that interpretation had issued as of mid-2026.",
+    "credibility": "Medium",
+    "credibility_rationale": "Law firm client alert summarizing public statements by agency officials."
+  },
+  {
+    "id": "news-323",
+    "recommendation_ids": [
+      "ftc-001",
+      "ftc-011"
+    ],
+    "headline": "FTC Has the Resources to Take On Big Tech, Chairman Andrew Ferguson Says",
+    "url": "https://www.bloomberg.com/news/articles/2025-03-17/ftc-has-the-resources-to-take-on-big-tech-chairman-says",
+    "source": "Bloomberg",
+    "date": "2025-03-17",
+    "summary": "FTC Chairman Andrew Ferguson said Big Tech enforcement remained a top agency priority and that the FTC was proceeding toward trial in its case seeking to break up Meta, continuing antitrust action against dominant internet platforms.",
+    "credibility": "High",
+    "credibility_rationale": "Bloomberg wire-quality financial reporting."
+  },
+  {
+    "id": "news-324",
+    "recommendation_ids": [
+      "fec-001",
+      "fec-007"
+    ],
+    "headline": "Trump Nominates Two Republicans to FEC, Paving Path to End Monthslong 'Shutdown'",
+    "url": "https://www.notus.org/money/federal-election-commission-donald-trump-commissioner-nomination-quorum",
+    "source": "NOTUS",
+    "date": "2026-02-11",
+    "summary": "The FEC lost its policymaking quorum after commissioner departures beginning in 2025, including one whom Trump attempted to remove; in February 2026 Trump nominated two new commissioners whose confirmation would restore a working quorum.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan nonprofit newsroom with editorial standards."
+  },
+  {
+    "id": "news-325",
+    "recommendation_ids": [
+      "fec-001"
+    ],
+    "headline": "Trump Has Kneecapped the FEC and Won't Fix It",
+    "url": "https://www.notus.org/policy/fec-quorum-campaign-finance",
+    "source": "NOTUS",
+    "date": "2025-10-15",
+    "summary": "Following Trump's January 2025 letter purporting to remove Commissioner Ellen Weintraub and further resignations, the FEC dropped to two sitting commissioners by October 2025, leaving it unable to issue rules, advisory opinions, or enforcement decisions.",
+    "credibility": "Medium",
+    "credibility_rationale": "Nonpartisan nonprofit newsroom with editorial standards."
+  },
+  {
+    "id": "news-326",
+    "recommendation_ids": [
+      "sba-007"
+    ],
+    "headline": "SBA freezes over 100,000 California borrowers in sweeping $9B pandemic fraud crackdown",
+    "url": "https://www.foxnews.com/politics/sba-freezes-100000-california-borrowers-sweeping-9b-pandemic-fraud-crackdown",
+    "source": "Fox News",
+    "date": "2025-11-01",
+    "summary": "SBA Administrator Kelly Loeffler said the agency suspended more than 111,000 California borrowers linked to over $8.6 billion in suspected pandemic-era PPP and EIDL loan fraud as part of a broader nationwide crackdown.",
+    "credibility": "Medium",
+    "credibility_rationale": "Major cable news outlet; coverage aligns with concurrent official SBA releases."
+  },
+  {
+    "id": "news-327",
+    "recommendation_ids": [
+      "sba-007"
+    ],
+    "headline": "SBA Suspends 7,800 Wisconsin Borrowers Connected to $375 Million in Suspected Fraudulent Pandemic-Era Loans",
+    "url": "https://www.sba.gov/article/2026/07/08/sba-suspends-7800-wisconsin-borrowers-connected-375-million-suspected-fraudulent-pandemic-era-loans",
+    "source": "U.S. Small Business Administration",
+    "date": "2026-07-08",
+    "summary": "The SBA announced it had identified and suspended over 150,000 total borrowers connected to more than $10 billion in suspected COVID-era PPP and EIDL fraud as its state-by-state accountability review continued into mid-2026.",
+    "credibility": "High",
+    "credibility_rationale": "Official federal agency press release."
+  },
+  {
+    "id": "news-328",
+    "recommendation_ids": [
+      "exim-001"
+    ],
+    "headline": "Export-Import Bank of the United States: Overview and Reauthorization Issues",
+    "url": "https://www.congress.gov/crs-product/R43581",
+    "source": "Congressional Research Service",
+    "date": "2026-01-01",
+    "summary": "The nonpartisan Congressional Research Service reported that EXIM's charter, last extended in 2019 through the end of 2026, faced an active reauthorization debate in the 119th Congress rather than the abolition urged by the Economy chapter's abolish essay.",
+    "credibility": "High",
+    "credibility_rationale": "Nonpartisan official congressional research report."
   }
 ]
