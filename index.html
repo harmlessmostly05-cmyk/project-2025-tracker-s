@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Project 2025 Tracker</title>
+<meta name="description" content="A calm, transparent tracker pairing Mandate for Leadership (Project 2025) recommendations with credibility-rated reporting on what is actually happening." />
+<meta property="og:title" content="Project 2025 Tracker" />
+<meta property="og:description" content="What the policy plan says, next to what is happening now. Sourced, cited, and calm." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<header class="site-header">
+  <div class="header-inner">
+    <p class="brand-kicker">Independent · Nonpartisan · Source-Cited</p>
+    <h1 class="brand-title">Project 2025 Tracker</h1>
+    <p class="brand-sub">What the policy plan says, next to what is happening now. Every claim cited; every source linked.</p>
+    <div class="header-links">
+      <button class="text-btn" id="open-methodology" type="button">How this works &amp; sourcing</button>
+    </div>
+  </div>
+</header>
+
+<div class="deeplink-banner" id="deeplink-banner" hidden>
+  <span id="deeplink-label"></span>
+  <button class="text-btn" id="deeplink-clear" type="button">See full dashboard</button>
+</div>
+
+<main id="main-content">
+
+  <p class="section-label">The landscape by theme — tap to explore</p>
+  <div class="theme-board" id="theme-board" role="group" aria-label="Implementation status by theme; tap a theme to filter"></div>
+  <div class="legend" aria-hidden="true">
+    <span><i style="background:var(--st-implemented)"></i> Implemented</span>
+    <span><i style="background:var(--st-inprogress)"></i> In progress</span>
+    <span><i style="background:var(--st-blocked)"></i> Blocked / stalled</span>
+    <span><i style="background:var(--st-proposed-tint);border:1px solid var(--line-strong)"></i> Proposed</span>
+  </div>
+
+  <div id="cards-anchor"></div>
+  <div class="filters" aria-label="Filters">
+    <select id="agency-select" aria-label="Filter by agency">
+      <option value="">All agencies</option>
+    </select>
+    <select id="phase-select" aria-label="Filter by timeline stage">
+      <option value="">All stages</option>
+    </select>
+    <div class="status-chips" id="status-chips" role="group" aria-label="Filter by status"></div>
+  </div>
+
+  <p class="result-line" id="result-line">Loading…</p>
+
+  <div class="card-list" id="card-list"></div>
+
+  <div class="empty-state" id="empty-state" hidden>
+    <h3>Nothing matches these filters</h3>
+    <p>Try a different theme, agency, stage, or status.</p>
+    <button class="text-btn" id="empty-clear" type="button">Reset all filters</button>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <h4>About</h4>
+      <p>A prototype covering 4 of the source book's 30 chapters (Central Personnel Agencies, DHS, Education, DOJ). Built to illuminate, not persuade. Independent — not affiliated with the Heritage Foundation or any campaign, party, or advocacy organization.</p>
+    </div>
+    <div>
+      <h4>Sourcing</h4>
+      <p>Plan text is quoted directly from <em>Mandate for Leadership: The Conservative Promise</em> (2023) with page citations. News items are tagged High / Medium / Low credibility by source type. Verify everything — that's the point.</p>
+    </div>
+    <div>
+      <h4>Status labels</h4>
+      <p>Proposed = no documented action yet. In Progress = formal steps underway. Implemented = enacted or in effect. Blocked / Stalled = attempted but halted (often in court). Statuses reflect linked reporting, not opinion.</p>
+    </div>
+  </div>
+</footer>
+
+<div class="modal-backdrop" id="methodology-modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="methodology-title">
+    <div class="modal-head">
+      <h2 id="methodology-title">How this works</h2>
+      <button class="close-btn" id="close-methodology" aria-label="Close">&times;</button>
+    </div>
+
+    <h3>The rule this site lives by</h3>
+    <p>Every card keeps two things strictly separate: <strong>What the policy plan says</strong> — quoted verbatim from the Mandate for Leadership book with a page citation — and <strong>What is happening now</strong> — linked, credibility-rated journalism and government records. No blending, no editorializing, no implied narratives.</p>
+
+    <h3>Status labels</h3>
+    <ul>
+      <li><strong>Proposed:</strong> in the book, but no documented government action tracked yet.</li>
+      <li><strong>In Progress:</strong> formal steps underway — executive orders, proposed rules, introduced bills, announced reorganizations.</li>
+      <li><strong>Implemented:</strong> enacted, finalized, or in effect.</li>
+      <li><strong>Blocked / Stalled:</strong> attempted but halted, typically by courts.</li>
+    </ul>
+    <p>Statuses are assigned from the linked reporting below each card, and every status note says why. If the evidence is mixed, the card says so.</p>
+
+    <h3>Credibility ratings</h3>
+    <p>Articles are tagged by source type, not by whether their findings are convenient:</p>
+    <div class="cred-def"><span class="cred-badge" data-cred="High">High</span><span>Official documents and wire services — Federal Register, court filings, agency releases, AP, Reuters.</span></div>
+    <div class="cred-def"><span class="cred-badge" data-cred="Medium">Medium</span><span>Major outlets with editorial standards — NYT, WaPo, NPR, Politico, broadcast news, trade press.</span></div>
+    <div class="cred-def"><span class="cred-badge" data-cred="Low">Low</span><span>Opinion pieces, partisan outlets, advocacy organizations — still linked, clearly flagged.</span></div>
+
+    <h3>What this is not</h3>
+    <p>Not exhaustive (4 of 30 chapters so far), not predictive, and not a scorecard of good or bad. Absence of a linked report does not mean nothing happened. When the administration acted contrary to a recommendation, the card says that too.</p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
