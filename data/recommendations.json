@@ -1,0 +1,959 @@
+[
+  {
+    "id": "pers-001",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "personnel-schedule-f",
+    "title": "Reinstate Schedule F to reclassify policy-influencing career staff",
+    "summary": "The chapter recommends reinstating Trump-era Executive Order 13957, which created Schedule F, allowing career civil servants in policy-influencing positions to be reclassified outside normal competitive civil service protections.",
+    "page": 113,
+    "quote": "It should be reinstated, but SES responsibility should come first.",
+    "status": "implemented",
+    "status_note": "Schedule Policy/Career reinstated by Day 1 executive action; final OPM rule issued Nov 2025 and applied to ~8,000 workers by June 2026. Litigation continues."
+  },
+  {
+    "id": "pers-002",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "End or narrow disparate-impact doctrine for civil service exams",
+    "summary": "The chapter argues the legal doctrine limiting use of general-ability entrance exams (like the discontinued PACE exam) due to disparate-impact concerns should be ended by legislation or narrowed through regulation so the government can use rigorous merit-based hiring exams again.",
+    "page": 104,
+    "quote": "This doctrine of disparate impact could be ended legislatively or at least narrowed through the regulatory process by a future Administration.",
+    "status": "in-progress",
+    "status_note": "April 2025 executive order directs agencies to end disparate-impact enforcement; regulatory follow-through ongoing."
+  },
+  {
+    "id": "pers-003",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "first-180-days",
+    "title": "Reissue Trump-era order streamlining removal of poor performers",
+    "summary": "The chapter calls for reintroducing Executive Order 13839 (revoked by the Biden administration), which shortened timelines for performance improvement, expedited disciplinary action, and limited settlement agreements that alter personnel records.",
+    "page": 105,
+    "quote": "the order was overturned by the Biden Administration, so it will need to be reintroduced in 2025.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-004",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Use pay and bonuses strategically to reward high performers",
+    "summary": "Absent a comprehensive legislative overhaul of federal merit pay, the chapter recommends that political executives use existing pay authorities and fiscal awards to reward good employee performance to the extent allowed by current law.",
+    "page": 106,
+    "quote": "political executives should use existing pay and especially fiscal awards strategically to reward good performance to the degree allowed by law.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-005",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Consolidate federal employee appeals into MSPB",
+    "summary": "The chapter recommends transferring the EEOC's federal-employee discrimination section to the Merit Systems Protection Board and returning many of the Office of Special Counsel's investigatory functions to OPM, making MSPB the primary reviewer of adverse personnel actions.",
+    "page": 108,
+    "quote": "The EEOC's federal employee section should be transferred to the MSPB, and many of the OCS's investigatory functions should be returned to the OPM.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-006",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel",
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Move federal pay toward a market-based, occupation-specific model",
+    "summary": "The chapter proposes that OPM establish initial pay schedules by occupation and region, and continuously monitor turnover and applicant ratios to adjust pay, moving federal compensation closer to a market-based system rather than uniform government-wide scales.",
+    "page": 109,
+    "quote": "the OPM should establish an initial pay schedule for every occupation and region, monitor turnover rates and applicant-to-position ratios, and adjust pay and recruitment on that basis.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-007",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "Freeze top career-position hiring to block appointee \"burrowing-in\"",
+    "summary": "The chapter recommends an immediate freeze on hiring for top career positions at the start of a new administration to prevent outgoing political appointees from converting into permanent career civil servants.",
+    "page": 111,
+    "quote": "What is needed at the beginning is a freeze on all top career-position hiring to prevent “burrowing-in” by outgoing political appointees.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-008",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "first-180-days",
+    "title": "Prioritize performance, not seniority, in reduction-in-force decisions",
+    "summary": "The chapter urges the President to press for reduction-in-force rules that weight employee performance above tenure and seniority when determining layoff order, reversing the current statutory ordering.",
+    "page": 111,
+    "quote": "A determined President should insist that performance be first and be wary of costly types of reductions-in-force.",
+    "status": "in-progress",
+    "status_note": "OPM proposed rule (Mar 2026) would prioritize performance over seniority in RIFs; not yet final."
+  },
+  {
+    "id": "pers-009",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Eliminate duplicative government functions identified by GAO",
+    "summary": "The chapter recommends identifying and eliminating functions and programs that are duplicated across Cabinet departments or spread across multiple agencies, citing GAO findings of dozens of areas of fragmentation, overlap, and duplication.",
+    "page": 111,
+    "quote": "A logical place to begin would be to identify and eliminate functions and programs that are duplicated across Cabinet departments or spread across multiple agencies.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "pers-010",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel"
+    ],
+    "phase": "first-180-days",
+    "title": "Reinstate Trump executive orders restricting union bargaining power",
+    "summary": "The chapter calls for reinstating three Trump-era executive orders (13836, 13837, 13839) that encouraged renegotiating union contracts to favor management rights, limited paid union official time, and restricted grievance processes, all of which were revoked by the Biden administration.",
+    "page": 113,
+    "quote": "Executive Order 13836, encouraging agencies to renegotiate all union collective bargaining agreements to ensure consistency with the law and respect for management rights",
+    "status": "implemented",
+    "status_note": "EO 14251 excluded much of the federal workforce from collective bargaining; appeals court lifted the injunction blocking it."
+  },
+  {
+    "id": "pers-011",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel",
+      "executive-power"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Congress should reconsider whether public-sector unions are legitimate",
+    "summary": "The chapter suggests Congress revisit the mid-20th-century bipartisan consensus that public-sector collective bargaining is incompatible with constitutional government, questioning whether such unions should be permitted in the federal government at all.",
+    "page": 114,
+    "quote": "Congress should also consider whether public-sector unions are appropriate in the first place.",
+    "status": "in-progress",
+    "status_note": "No congressional action, but EO 14251 ended collective bargaining for ~1 million federal workers."
+  },
+  {
+    "id": "pers-012",
+    "department": "Central Personnel Agencies: Managing the Bureaucracy",
+    "section": "Central Personnel Agencies: Managing the Bureaucracy",
+    "theme": [
+      "federal-workforce-personnel",
+      "executive-power"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "Rapidly fill political appointee ranks from day one",
+    "summary": "The chapter recommends that a new administration build a full team of political appointees from the start via close coordination between the White House Presidential Personnel Office and OPM, rather than relying on career staff and holdover appointees as happened early in the first Trump term.",
+    "page": 115,
+    "quote": "it would make sense to give the President direct supervision of the bureaucracy with the OPM Director available in his Cabinet.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "dhs-001",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border",
+      "executive-power"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Pursue legislation to dismantle DHS entirely",
+    "summary": "The chapter's primary recommendation is that the President pursue legislation to break up the Department of Homeland Security along mission lines rather than continue it as a single department, arguing it has never functioned cohesively since its 2003 creation.",
+    "page": 165,
+    "quote": "Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS).",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "dhs-002",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Merge CBP, ICE, USCIS and others into new Cabinet-level border agency",
+    "summary": "The chapter recommends combining Customs and Border Protection, Immigration and Customs Enforcement, Citizenship and Immigration Services, HHS's Office of Refugee Resettlement, and DOJ's immigration courts and litigation office into a single new Cabinet-level border and immigration agency of more than 100,000 employees.",
+    "page": 165,
+    "quote": "into a stand-alone border and immigration agency at the Cabinet level (more than 100,000 employees, making it the third largest department measured by manpower).",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "dhs-003",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "national-security-defense",
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Redistribute CISA, FEMA, Coast Guard, Secret Service, and TSA",
+    "summary": "As part of dismantling DHS, the chapter recommends moving CISA to Transportation, FEMA to Interior or Transportation, the Coast Guard to DOJ (and DOD in wartime), splitting the Secret Service between DOJ and Treasury, and privatizing the TSA.",
+    "page": 166,
+    "quote": "The Transportation Security Administration (TSA) be privatized.",
+    "status": "in-progress",
+    "status_note": "Component restructuring reported amid DHS leadership shakeup; no completed statutory redistribution."
+  },
+  {
+    "id": "dhs-004",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border",
+      "federal-workforce-personnel",
+      "executive-power"
+    ],
+    "phase": "first-180-days",
+    "title": "\"Soft close\" ineffective DHS offices pending full dismantlement",
+    "summary": "Pending congressional action to dismantle DHS, the chapter recommends the Secretary use discretionary authority to shift personnel, funding, and responsibilities away from ineffective or problematic components toward mission-essential functions.",
+    "page": 169,
+    "quote": "the Secretary therefore can and should use his or her inherent, discretionary leadership authority to “soft close” ineffective and problematic corners of the department.",
+    "status": "in-progress",
+    "status_note": "Reporting documents discretionary downsizing of DHS components; leadership turnover complicates assessment."
+  },
+  {
+    "id": "dhs-005",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Condition FEMA grants on immigration-law and E-Verify compliance",
+    "summary": "The chapter recommends requiring state and local grant applicants to certify compliance with federal immigration law, including honoring detainers, registering for and using E-Verify, and agreeing to share information with federal law enforcement, as preconditions for most FEMA grant funding.",
+    "page": 169,
+    "quote": "Certification by applicants that they comply with all aspects of federal immigration laws, including the honoring of all immigration detainers.",
+    "status": "blocked-stalled",
+    "status_note": "Immigration-compliance conditions attached to FEMA grants were rejected by a federal judge in Oct 2025."
+  },
+  {
+    "id": "dhs-006",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border",
+      "economy-trade"
+    ],
+    "phase": "first-180-days",
+    "title": "Stop discretionary expansion of guest-worker visa authorities",
+    "summary": "The chapter recommends the DHS Secretary explicitly stop using discretionary authority to raise H-2B seasonal visa numbers above the statutory cap and decline to issue regulations expanding the H-2 eligible-country list.",
+    "page": 170,
+    "quote": "The Secretary should make it clear that he or she will not use the Secretary's existing discretionary authority to increase the number of H-2B (seasonal non-agricultural) visas above the statutorily set cap.",
+    "status": "proposed",
+    "status_note": "No action tracked; DHS instead expanded H-2B visas above the statutory cap for FY 2026 — contrary to the recommendation."
+  },
+  {
+    "id": "dhs-007",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border"
+    ],
+    "phase": "first-180-days",
+    "title": "Rescind ICE \"sensitive zones\" limits and expand expedited removal",
+    "summary": "The chapter recommends rescinding all ICE memoranda that designate 'sensitive zones' where agents are prohibited from operating, and expanding use of Expedited Removal authority beyond the current practice of limiting it to aliens apprehended within 100 miles of the border.",
+    "page": 173,
+    "quote": "All ICE memoranda identifying “sensitive zones” where ICE personnel are prohibited from operating should be rescinded.",
+    "status": "implemented",
+    "status_note": "Sensitive-locations policy rescinded in early 2025; expedited removal expanded."
+  },
+  {
+    "id": "dhs-008",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Fund large expansion of ICE detention capacity",
+    "summary": "The chapter calls on Congress to mandate and fund a significant increase in ICE detention bed space, raising the daily available capacity to 100,000 beds, along with funding for thousands of additional enforcement officers and attorneys.",
+    "page": 175,
+    "quote": "ICE should be funded for a significant increase in detention space, raising the daily available number of beds to 100,000.",
+    "status": "in-progress",
+    "status_note": "2025 budget law funds major detention expansion; ICE plans to roughly double capacity by end of 2026."
+  },
+  {
+    "id": "dhs-009",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Repeal diversity visa lottery and move to merit-based immigration",
+    "summary": "The chapter recommends legislation to repeal the diversity visa lottery, end extended-family \"chain migration\" in favor of nuclear-family based immigration, and replace the existing employment visa system with one awarding visas based on skill.",
+    "page": 177,
+    "quote": "the diversity visa lottery should be repealed, chain migration should be ended while focusing on the nuclear family, and the existing employment visa program should be replaced with a system to award visas only to the “best and brightest.”",
+    "status": "in-progress",
+    "status_note": "Bills to repeal the diversity visa lottery introduced in both chambers; none enacted."
+  },
+  {
+    "id": "dhs-010",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "media-information",
+      "executive-power"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "End CISA's counter-misinformation work and its advisory committee",
+    "summary": "The chapter calls for immediately ending CISA's efforts to counter online misinformation and disinformation, describing this work as unconstitutional censorship, and for dismissing the entire CISA Cybersecurity Advisory Committee on the first day of the new administration.",
+    "page": 187,
+    "quote": "the entirety of the CISA Cybersecurity Advisory Committee should be dismissed on Day One.",
+    "status": "implemented",
+    "status_note": "CISA election-security and disinformation staff placed on leave Feb 2025; counter-misinformation work wound down."
+  },
+  {
+    "id": "dhs-011",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "deregulation-environment",
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Wind down the National Flood Insurance Program",
+    "summary": "Citing $20.5 billion in program debt and taxpayer-funded bailouts, the chapter recommends winding down the federally run National Flood Insurance Program and replacing it with private flood insurance, beginning with the lowest-risk areas.",
+    "page": 186,
+    "quote": "The NFIP should be wound down and replaced with private insurance starting with the least risky areas currently identified by the program.",
+    "status": "proposed",
+    "status_note": "No wind-down tracked; NFIP was reauthorized rather than sunset — contrary to the recommendation."
+  },
+  {
+    "id": "dhs-012",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Terminate most DHS/FEMA preparedness grant programs",
+    "summary": "The chapter argues DHS preparedness grants to states, localities, and special-interest groups have become political pork rather than delivering measurable security gains, and recommends terminating most of these grant programs, leaving states responsible for their own preparedness funding.",
+    "page": 186,
+    "quote": "DHS should not be in the business of handing out federal tax dollars: These grants should be terminated.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "dhs-013",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "law-enforcement-doj",
+      "federal-workforce-personnel"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Split the Secret Service to refocus it solely on protection",
+    "summary": "The chapter recommends transferring the Secret Service's financial-crimes investigative functions to DOJ and Treasury, closing associated field offices, and reassigning agents so the agency's dual protection/investigation mission becomes protection-only.",
+    "page": 189,
+    "quote": "USSS should transfer to the Department of Justice and Department of the Treasury all investigations that are not related to its protective function.",
+    "status": "proposed",
+    "status_note": "No split tracked; Secret Service instead merged its financial-crimes task forces — contrary to the recommendation."
+  },
+  {
+    "id": "dhs-014",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "economy-trade",
+      "deregulation-environment"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Privatize TSA airport security screening",
+    "summary": "The chapter recommends privatizing TSA's screening function, either by expanding the existing Screening Partnership Program to all airports or by adopting a Canadian-style model where a government corporation contracts screening to private companies across roughly 10 regions.",
+    "page": 190,
+    "quote": "TSA could privatize the screening function by expanding the current Screening Partnership Program (SPP) to all airports.",
+    "status": "in-progress",
+    "status_note": "2026 budget expands TSA privatization; several airports have opted into private screening."
+  },
+  {
+    "id": "dhs-015",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "national-security-defense",
+      "media-information",
+      "executive-power"
+    ],
+    "phase": "first-180-days",
+    "title": "Eliminate DHS's Office of Intelligence and Analysis",
+    "summary": "The chapter recommends eliminating the DHS Office of Intelligence and Analysis, characterizing it as duplicative of other intelligence agencies and having been used for domestic political purposes, while preserving a small tactical function within the Office of Operations Coordination.",
+    "page": 193,
+    "quote": "The Office of Intelligence and Analysis should be eliminated both because it has not added value and because it has been weaponized for domestic political purposes.",
+    "status": "in-progress",
+    "status_note": "DHS moved to shed most of its Office of Intelligence and Analysis workforce; office not formally eliminated."
+  },
+  {
+    "id": "dhs-016",
+    "department": "Department of Homeland Security",
+    "section": "The Common Defense",
+    "theme": [
+      "federal-workforce-personnel",
+      "immigration-border"
+    ],
+    "phase": "personnel-schedule-f",
+    "title": "Classify USCIS as national-security-sensitive and decertify its union",
+    "summary": "The chapter recommends reclassifying all USCIS employees as holding national-security-sensitive positions with corresponding leak-investigation standards, decertifying the agency's union, and rotating D.C.-based staff out to field offices nationwide.",
+    "page": 179,
+    "quote": "USCIS should be classified as a national security–sensitive agency, and all of its employees should be classified as holding national security–sensitive positions.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-001",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "executive-power"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Ultimately eliminate the federal Department of Education",
+    "summary": "The chapter's stated mission is that federal education policy should be limited and the Department of Education should ultimately be eliminated, with education decisions and funding devolved to families and states.",
+    "page": 351,
+    "quote": "Federal education policy should be limited and, ultimately, the federal Department of Education should be eliminated.",
+    "status": "in-progress",
+    "status_note": "March 2025 EO directs dismantling; mass layoffs allowed by Supreme Court; statutory elimination still requires Congress."
+  },
+  {
+    "id": "edu-002",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Block-grant federal education funds to states without strings",
+    "summary": "The chapter recommends that federal education dollars be converted into no-strings-attached block grants to states rather than program-specific funding tied to federal rules and regulations, reducing the federal and state compliance bureaucracy.",
+    "page": 352,
+    "quote": "those funds should be block-granted to states without strings, eliminating the need for many federal and state bureaucrats.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-003",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Pass a Department of Education Reorganization Act",
+    "summary": "The chapter recommends that the administration work with Congress to pass legislation that would reform, eliminate, or redistribute the Department of Education's programs and offices to other federal agencies as part of winding down the department.",
+    "page": 357,
+    "quote": "the next Administration should work with Congress to pass a Department of Education Reorganization Act to reform, eliminate, or move the department's programs and offices to appropriate agencies.",
+    "status": "in-progress",
+    "status_note": "Termination bill (H.R.899) introduced; reorganization proceeding administratively rather than by statute."
+  },
+  {
+    "id": "edu-004",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Move Title I funding to HHS, phase out over 10 years",
+    "summary": "The chapter recommends transferring Title I, Part A funding for low-income school districts to HHS as a no-strings formula block grant, and gradually shifting funding responsibility back to states over a 10-year period.",
+    "page": 358,
+    "quote": "Restore revenue responsibility for Title I funding to the states over a 10-year period.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-005",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "social-policy-family"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Convert IDEA special-education funding into a block grant via HHS",
+    "summary": "The chapter recommends converting most Individuals with Disabilities Education Act funding into a no-strings formula block grant for students with disabilities, administered by HHS's Administration for Community Living rather than the Department of Education.",
+    "page": 358,
+    "quote": "Most IDEA funding should be converted into a no-strings formula block grant targeted at students with disabilities and distributed directly to local education agencies by Health and Human Service's Administration for Community Living.",
+    "status": "implemented",
+    "status_note": "Special-education functions transferred out of the Education Department in June 2026."
+  },
+  {
+    "id": "edu-006",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Spin off federal student loans into an independent corporation",
+    "summary": "The chapter recommends reversing the 2010 federalization of student lending and spinning off the Office of Federal Student Aid and its loan obligations into a new, professionally governed government corporation.",
+    "page": 359,
+    "quote": "The next Administration should completely reverse the student loan federalization of 2010 and work with Congress to spin off FSA and its student loan obligations to a new government corporation with professional governance and management.",
+    "status": "in-progress",
+    "status_note": "Treasury–Education partnership announced to move federal student-loan servicing; independent corporation not yet created."
+  },
+  {
+    "id": "edu-007",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "law-enforcement-doj"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Move Office for Civil Rights enforcement to the Justice Department",
+    "summary": "The chapter recommends moving the Department of Education's Office for Civil Rights to the Department of Justice, where civil rights protections would be enforced only through litigation rather than administrative agency action.",
+    "page": 362,
+    "quote": "OCR should move to the Department of Justice. The federal government has an essential responsibility to enforce civil rights protections, but Washington should do so through the Department of Justice and federal courts.",
+    "status": "implemented",
+    "status_note": "Office for Civil Rights enforcement functions transferred in June 2026."
+  },
+  {
+    "id": "edu-008",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "social-policy-family"
+    ],
+    "phase": "first-180-days",
+    "title": "Rescind Biden Title IX rule and restore 2020 biological-sex definition",
+    "summary": "The chapter calls for rescinding the Biden administration's Title IX regulations, restoring the 2020 regulations issued under Secretary Betsy DeVos, and defining 'sex' under Title IX to mean only biological sex recognized at birth.",
+    "page": 365,
+    "quote": "restore the Title IX regulations promulgated by then-Secretary Betsy DeVos on May 19, 2020; and define “sex” under Title IX to mean only biological sex recognized at birth.",
+    "status": "implemented",
+    "status_note": "Biden-era Title IX rule scrapped Jan 2025; 2020 rule restored."
+  },
+  {
+    "id": "edu-009",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "law-enforcement-doj"
+    ],
+    "phase": "first-180-days",
+    "title": "Stop Title VI school-discipline cases based only on disparate impact",
+    "summary": "The chapter recommends that the Department of Education and DOJ jointly issue guidance stating they will no longer investigate Title VI school-discipline cases that rest exclusively on statistical disparate-impact allegations rather than evidence of disparate treatment.",
+    "page": 367,
+    "quote": "the new Administration should also direct the department and DOJ jointly to issue enforcement guidance stating that the agencies will no longer investigate Title VI cases that exclusively rest on allegations of disparate impact.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-010",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "social-policy-family"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Rescind the Obama-era \"Equity in IDEA\" race-based regulation",
+    "summary": "The chapter recommends rescinding a 2016 regulation requiring states to consider race and ethnicity when addressing disproportionality in special-education identification, placement, and discipline, arguing the underlying premise is not supported by research.",
+    "page": 368,
+    "quote": "The next Administration should immediately commence rulemaking to rescind the Equity in IDEA regulation. No replacement regulation is required.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-011",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Phase out existing income-driven student loan repayment plans",
+    "summary": "The chapter recommends phasing out all current income-driven repayment plans for new borrowers and replacing them with a single, less generous plan requiring payments of 10 percent of income above the poverty line, with no loan forgiveness if new legislation allows.",
+    "page": 369,
+    "quote": "The Secretary should phase out all existing IDR plans by making new loans (including consolidation loans) ineligible and should implement a new IDR plan.",
+    "status": "implemented",
+    "status_note": "FY2025 reconciliation law replaced existing income-driven repayment plans with the Repayment Assistance Plan."
+  },
+  {
+    "id": "edu-012",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "executive-power"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Rescind the National Education Association's federal charter",
+    "summary": "The chapter recommends that Congress rescind the National Education Association's congressional charter, arguing the charter lends undeserved legitimacy to a union it characterizes as a partisan special interest group.",
+    "page": 374,
+    "quote": "Congress should rescind the National Education Association's congressional charter and remove the false impression that federal taxpayers support the political activities of this special interest group.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-013",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "social-policy-family"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Pass a federal Parents' Bill of Rights with strict-scrutiny protection",
+    "summary": "The chapter recommends federal legislation establishing parental rights in education as a 'top-tier' constitutional right subject to strict judicial scrutiny, giving parents a stronger legal basis to challenge federal actions affecting their children's upbringing and education.",
+    "page": 376,
+    "quote": "The law would require the government to satisfy “strict scrutiny”—the highest standard of judicial review—when the government infringes parental rights.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-014",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "social-policy-family"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Require parental consent for schools to use different names/pronouns",
+    "summary": "For K-12 systems under federal jurisdiction, the chapter proposes legislation barring school employees from addressing a student by a name or pronoun other than that on the student's birth certificate without written parental permission, and protecting staff who object on religious or moral grounds.",
+    "page": 378,
+    "quote": "No public education employee or contractor shall use a name to address a student other than the name listed on a student's birth certificate, without the written permission of a student's parents or guardians.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-015",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Expand and increase funding for the D.C. Opportunity Scholarship",
+    "summary": "The chapter recommends that Congress expand the D.C. Opportunity Scholarship voucher program to all students regardless of income, raise the scholarship amount closer to per-pupil spending in D.C. public schools, and deregulate participating private schools' admissions and testing requirements.",
+    "page": 379,
+    "quote": "Congress should expand eligibility to all students, regardless of income or background, and raise the scholarship amount closer to the funding students receive in D.C. Public Schools.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "edu-016",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education",
+      "economy-trade"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Privatize federal student lending and end PLUS loans and PSLF",
+    "summary": "The chapter recommends privatizing federal student lending programs (subsidized, unsubsidized, and PLUS loans) to introduce market-based accountability, and separately calls for eliminating Grad PLUS and Parent PLUS loans and terminating the Public Service Loan Forgiveness program.",
+    "page": 385,
+    "quote": "Privatizing all lending programs, including subsidized, unsubsidized, and PLUS loans (both Grad and Parent). This would allow for market prices and signals to influence educational borrowing.",
+    "status": "in-progress",
+    "status_note": "Grad PLUS eliminated and loan caps enacted; new PSLF restriction rule blocked in court July 2026."
+  },
+  {
+    "id": "edu-017",
+    "department": "Department of Education",
+    "section": "Education",
+    "theme": [
+      "education"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Bar accreditors from mandating DEI policies at colleges",
+    "summary": "The chapter recommends amending the Higher Education Act to prohibit accreditation agencies from using their gatekeeper role over federal student aid eligibility to require colleges and universities to adopt diversity, equity, and inclusion policies.",
+    "page": 384,
+    "quote": "Prohibit accreditation agencies from leveraging their Title IV gatekeeper role to mandate that educational institutions adopt diversity, equity, and inclusion policies.",
+    "status": "in-progress",
+    "status_note": "April 2025 EO directs accreditation overhaul including DEI mandates; implementation ongoing."
+  },
+  {
+    "id": "doj-001",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "executive-power"
+    ],
+    "phase": "first-180-days",
+    "title": "Move FBI out from under the Deputy Attorney General's direct line",
+    "summary": "The chapter recommends internally reorganizing DOJ so the FBI reports to the Assistant Attorneys General for the Criminal Division and National Security Division rather than directly to the Deputy Attorney General, a change described as achievable without congressional action.",
+    "page": 581,
+    "quote": "the next conservative Administration should direct the Attorney General to remove the FBI from the Deputy Attorney General's direct supervision within the department's organizational chart.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-002",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "executive-power"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "Review and terminate FBI investigations deemed unlawful or improper",
+    "summary": "The chapter calls for an immediate, comprehensive review of all major active FBI investigations and activities upon taking office, with termination of any found to be unlawful or contrary to the national interest.",
+    "page": 581,
+    "quote": "Conduct an immediate, comprehensive review of all major active FBI investigations and activities and terminate any that are unlawful or contrary to the national interest.",
+    "status": "implemented",
+    "status_note": "EO 14147 ordered reviews; Jan. 6-related FBI personnel identified and senior officials fired."
+  },
+  {
+    "id": "doj-003",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "media-information"
+    ],
+    "phase": "first-180-days",
+    "title": "Prohibit FBI from countering \"misinformation\" absent criminal nexus",
+    "summary": "The chapter recommends barring the FBI from activities aimed at combating so-called misinformation or disinformation by Americans unless tied to plausible criminal activity, calling for a firewall between legitimate threat monitoring and speech policing.",
+    "page": 582,
+    "quote": "Prohibit the FBI from engaging, in general, in activities related to combating the spread of so-called misinformation and disinformation by Americans who are not tied to any plausible criminal activity.",
+    "status": "implemented",
+    "status_note": "EO 14147 bars federal officers from unconstitutional speech-related activity."
+  },
+  {
+    "id": "doj-004",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "federal-workforce-personnel"
+    ],
+    "phase": "first-180-days",
+    "title": "Eliminate FBI's internal General Counsel and other non-law-enforcement offices",
+    "summary": "The chapter recommends eliminating FBI offices that duplicate DOJ functions, such as its roughly 300-attorney Office of General Counsel, its own Congressional Affairs office, and its own Public Affairs office, shifting those functions to the Department of Justice.",
+    "page": 583,
+    "quote": "Streamline the non–law enforcement functions within the FBI, such as its Office of General Counsel, and obtain those services from other offices within the department.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-005",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "executive-power"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Seek legislation ending the FBI Director's fixed 10-year term",
+    "summary": "The chapter recommends submitting a legislative proposal to Congress eliminating the statutory 10-year term for the FBI Director, aligning the position's accountability to the President with that of other agency heads.",
+    "page": 583,
+    "quote": "Submit a legislative proposal to Congress to eliminate the 10-year term for the Director.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-006",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj"
+    ],
+    "phase": "first-180-days",
+    "title": "Bring federal charges and sue local prosecutors who decline to enforce law",
+    "summary": "The chapter directs U.S. Attorneys to bring federal charges against criminals in jurisdictions where local officials decline prosecution, and recommends legal action against local officials, including elected District Attorneys, who refuse to prosecute crimes based on political or identity-based considerations.",
+    "page": 585,
+    "quote": "Where warranted and proper under federal law, initiate legal action against local officials—including District Attorneys—who deny American citizens the “equal protection of the laws” by refusing to prosecute criminal offenses.",
+    "status": "implemented",
+    "status_note": "DOJ has filed suits against sanctuary states and cities; litigation ongoing."
+  },
+  {
+    "id": "doj-007",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "national-security-defense",
+      "law-enforcement-doj"
+    ],
+    "phase": "first-180-days",
+    "title": "Restart the DOJ's China Initiative",
+    "summary": "The chapter recommends restarting the Trump-era China Initiative, a DOJ program targeting Chinese economic espionage and trade-secret theft that the Biden administration terminated in 2022.",
+    "page": 588,
+    "quote": "Restart the China Initiative.",
+    "status": "implemented",
+    "status_note": "DOJ revived China Initiative-style enforcement and investigations of academic researchers."
+  },
+  {
+    "id": "doj-008",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "executive-power"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "Review and end policies, investigations, and cases contrary to law",
+    "summary": "Before the inauguration, the chapter recommends the incoming administration conduct a thorough review of all publicly available DOJ policies, investigations, and cases, and prepare a plan to promptly end any that run contrary to law or the new administration's policies.",
+    "page": 589,
+    "quote": "In a manner consistent with applicable law, prepare a plan to end immediately any policies, investigations, or cases that run contrary to law or Administration policies.",
+    "status": "implemented",
+    "status_note": "EO 14147 directed department-wide review of investigations and cases."
+  },
+  {
+    "id": "doj-009",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "executive-power",
+      "law-enforcement-doj"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Argue Humphrey's Executor should be overturned",
+    "summary": "The chapter recommends the DOJ formally take the litigation position that Humphrey's Executor v. United States, the precedent permitting independent agencies whose heads cannot be removed by the President at will, violates the Constitution's separation of powers.",
+    "page": 592,
+    "quote": "The next conservative Administration should formally take the position that Humphrey's Executor violates the Constitution's separation of powers.",
+    "status": "implemented",
+    "status_note": "Supreme Court overruled Humphrey's Executor in June 2026 (Trump v. Slaughter)."
+  },
+  {
+    "id": "doj-010",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "social-policy-family"
+    ],
+    "phase": "first-180-days",
+    "title": "Direct Civil Rights Division to prosecute DEI-related discrimination",
+    "summary": "The chapter recommends reorganizing DOJ's Civil Rights Division and directing it to spend its first year investigating and prosecuting state and local governments, universities, and private employers whose diversity, equity, and inclusion practices are alleged to constitute unlawful discrimination.",
+    "page": 594,
+    "quote": "The Civil Rights Division should spend its first year under the next Administration using the full force of federal prosecutorial resources to investigate and prosecute all state and local governments, institutions of higher education, corporations, and any other private employers.",
+    "status": "in-progress",
+    "status_note": "Civil Rights Division opened DEI-related admissions and employment investigations; prosecutions pending."
+  },
+  {
+    "id": "doj-011",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "social-policy-family",
+      "health-policy"
+    ],
+    "phase": "first-180-days",
+    "title": "Enforce federal law against mailing of abortion pills",
+    "summary": "Citing the Dobbs decision, the chapter recommends DOJ announce its intent to enforce 18 U.S.C. sections 1461-1462, which criminalize mailing articles or drugs advertised for producing abortion, against providers and distributors of abortion pills.",
+    "page": 594,
+    "quote": "The Department of Justice in the next conservative Administration should therefore announce its intent to enforce federal law against providers and distributors of such pills.",
+    "status": "proposed",
+    "status_note": "No Comstock Act enforcement against abortion-pill mailing tracked as of latest reporting."
+  },
+  {
+    "id": "doj-012",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj"
+    ],
+    "phase": "first-180-days",
+    "title": "Move election-offense prosecutions from Civil Rights to Criminal Division",
+    "summary": "The chapter recommends reassigning responsibility for prosecuting violations of 18 U.S.C. section 241 (conspiracy against rights, used for voter-fraud and ballot-related offenses) from DOJ's Civil Rights Division back to its Criminal Division.",
+    "page": 594,
+    "quote": "The Attorney General in the next conservative Administration should reassign responsibility for prosecuting violations of 18 U.S. Code § 241 from the Civil Rights Division to the Criminal Division where it belongs.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-013",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "federal-workforce-personnel"
+    ],
+    "phase": "personnel-schedule-f",
+    "title": "Substantially expand political appointee ranks throughout DOJ",
+    "summary": "The chapter recommends a significant expansion of political appointees across every DOJ office and component beyond typical staffing levels, with particular emphasis on the Civil Rights Division, the FBI, and the immigration courts (EOIR).",
+    "page": 601,
+    "quote": "The next conservative Administration must make every effort to obtain the resources to support a vast expansion of the number of appointees in every office and component across the department.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-014",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "federal-workforce-personnel"
+    ],
+    "phase": "pre-day1-prep",
+    "title": "End nonessential DOJ personnel details pending a staffing review",
+    "summary": "The chapter recommends terminating and recalling all nonessential details of DOJ personnel, particularly those detailed to congressional offices, shortly after inauguration until a thorough review of departmental personnel needs is completed.",
+    "page": 601,
+    "quote": "the next conservative Administration should terminate and recall all details of DOJ personnel shortly after the President's inauguration.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-015",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "immigration-border",
+      "law-enforcement-doj"
+    ],
+    "phase": "first-180-days",
+    "title": "Overturn Garland-era immigration court decisions",
+    "summary": "The chapter recommends the Attorney General examine and consider withdrawing or overturning every immigration decision issued by Attorney General Garland, picking up prior Trump-era immigration adjudications and reissuing related rules.",
+    "page": 599,
+    "quote": "Examine and consider the appropriateness of withdrawing or overturning every immigration decision rendered by Attorney General Garland.",
+    "status": "proposed",
+    "status_note": "No correlated reporting tracked yet; status defaults to Proposed."
+  },
+  {
+    "id": "doj-016",
+    "department": "Department of Justice",
+    "section": "The General Welfare",
+    "theme": [
+      "law-enforcement-doj",
+      "immigration-border"
+    ],
+    "phase": "ongoing-rulemaking",
+    "title": "Overhaul DOJ grant conditions to require immigration-law compliance",
+    "summary": "The chapter recommends overhauling the DOJ grant application process to include more rigorous vetting of applicants, building on the Trump-era practice of conditioning grants on compliance with federal immigration information-sharing requirements, which effectively barred 'sanctuary' jurisdictions from funding.",
+    "page": 598,
+    "quote": "Order an overhaul of the DOJ grant application process, to include more rigorous vetting of state, local, and private grant applicants and inclusion of more pre-application criteria.",
+    "status": "implemented",
+    "status_note": "DOJ conditioned grant funds on immigration-law compliance in Feb 2025; subject to litigation."
+  }
+]
