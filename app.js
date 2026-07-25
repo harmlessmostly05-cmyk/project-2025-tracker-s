@@ -48,7 +48,8 @@ const state = {
 };
 
 async function loadData() {
-  const [a, b] = await Promise.all([fetch("data/recommendations.json"), fetch("data/news.json")]);
+  const v = Date.now(); // cache-bust: data updates should be visible immediately
+  const [a, b] = await Promise.all([fetch(`data/recommendations.json?v=${v}`), fetch(`data/news.json?v=${v}`)]);
   state.recs = await a.json();
   state.news = await b.json();
   state.news.forEach((n) =>
